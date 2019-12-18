@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>实验室成员</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<h2 id="导师"><a href="#导师" class="headerlink" title="导师"></a>导师</h2><p>孙俊 教授</p>
+<p>北京大学计算机科学技术研究所<br>中关村北大街128号, 北京市海淀区，100871<br>Email: <a href="mailto:jsun@pku.edu.cn">jsun@pku.edu.cn</a></p>
+<h2 id="博士"><a href="#博士" class="headerlink" title="博士"></a>博士</h2><p>尚明宇 <a href="mailto:shangki@pku.edu.cn">shangki@pku.edu.cn</a><br>黄志杰 <a href="mailto:zhijiehuang@pku.edu.cn">zhijiehuang@pku.edu.cn</a></p>
+<h2 id="硕士"><a href="#硕士" class="headerlink" title="硕士"></a>硕士</h2><p>李云畅 <a href="mailto:liyunchang@pku.edu.cn">liyunchang@pku.edu.cn</a><br>高洁 <a href="mailto:gaojie2018@pku.edu.cn">gaojie2018@pku.edu.cn</a></p>
+<h2 id="毕业生"><a href="#毕业生" class="headerlink" title="毕业生"></a>毕业生</h2><h3 id="硕士-1"><a href="#硕士-1" class="headerlink" title="硕士"></a>硕士</h3><p>2016级 张樱凡 郑羽珊<br>2015级 冯伟伦 靖奇 徐鹏<br>2014级 王杰西 林镇安 钟鸣<br>2012级 周燕萍<br>2011级 刘森<br>2010级 颜乐驹</p>
+<h3 id="博士-1"><a href="#博士-1" class="headerlink" title="博士"></a>博士</h3><p>2014级 陈科吉<br>2012级 段一舟<br>2011级 孟胜彬</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>深度学习与智慧教育</title>
+    <url>/dpedu/index.html</url>
+    <content><![CDATA[<h2 id="原生数据"><a href="#原生数据" class="headerlink" title="原生数据"></a>原生数据</h2><p>实验室已有采集到的原生数据：原生题目、学生笔迹、批改分数等，实验室目前正在基于原生数据进行数据分析、信息挖掘等研究内容。</p>
+<p><img src="/dpedu/index/data.png" alt></p>
+<h2 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h2><ul>
+<li>自动批改：利用深度学习相关知识对学生笔记数据进行识别，并结合最新的文本识别技术进行自动判题打分。</li>
+<li>图文纠错：将拍照扫描得到的题目文本和照片对照，查找潜在错误区域并标记提示纠错人员。</li>
+<li>题目推荐：题目关联性分析，以一道给定的题目作为输入，为其在题库中寻找最相关的n道题目作为查询结果返回，主要应用场景是针对错题的同题巩固（举一反三）；</li>
+<li>拍照搜题：图像识别+题目关联分析，以拍照上传的题目图片作为输入，识别和提取题目关键特征，在题库中检索是否有该题目，否则返回一组最相关的题目供选择；</li>
+<li>学生建模：基于学生多维学情大数据为学生建立学情画像，进行特征分析，对学生的学习能力和习惯进行分类等等；</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>已授权的专利</title>
+    <url>/patent/index.html</url>
+    <content><![CDATA[<ul>
+<li>孙俊，李睿珩，姚凯，郭宗明. 一种视频资源的调度包截取方法及装置，专利号201010228538.X；</li>
+<li>孙俊，李睿珩，邸佩云，胡昌启. 确定调度包优先级的方法和装置，专利号200910203202.5；</li>
+<li>孙俊，高文，王悦. 一种SVC视频FGS优先级调度方法，专利号200710176474.1；</li>
+<li>高文，孙俊，王悦. 一种基于率失真函数分析模型的SVC平滑重建算法，专利号200710176293.9；</li>
+<li>颜乐驹，孙俊，郭宗明，肖建国. 一种双线性两倍上采样方法及系统，专利号201010226016.6；</li>
+<li>颜乐驹，孙俊，郭宗明，肖建国. 基于可伸缩视频编码的动态丢包控制方法、系统及装置，专利号ZL201010618196.2；</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>视频编解码</title>
+    <url>/hevc/index.html</url>
+    <content><![CDATA[<h2 id="视频编码标准"><a href="#视频编码标准" class="headerlink" title="视频编码标准"></a>视频编码标准</h2><p>数字视频技术广泛应用于通信、计算机、广播电视等领域，带来了会议电视、可视电话及数字电视、媒体存储等一系列应用，促使了许多视频编码标准的产生。ITU-T与ISO/IEC是制定视频编码标准的两大组织，ITU-T的标准包括H.261、H.263、H.264，主要应用于实时视频通信领域，如会议电视；MPEG系列标准是由ISO/IEC制定的，主要应用于视频存储(DVD)、广播电视、因特网或无线网上的流媒体等。HEVC(High-Efficiency Video Coding) / H.265 标准是ISO/IEC和ITU-T联合制定的最新的视频编解码标准，能在相同的主观质量下比前一代标准H.264/AVC提高1倍的压缩率，是当前数字视频领域研究的热点。<br><img src="http://www.strongene.com/images/standardhistory.png" alt="编码标准发展与变迁"></p>
+<h2 id="HEVC-H-265-标准"><a href="#HEVC-H-265-标准" class="headerlink" title="HEVC / H.265 标准"></a>HEVC / H.265 标准</h2><p> HEVC(High-Efficiency Video Coding) / H.265 是ISO/IEC和ITU-T联合制定的最新的视频编解码标准。该标准能在相同的主观质量下比前一代标准H.264/AVC提高1倍的压缩率。HEVC标准将会被ISO/IEC组织定为MPEG-H Part 2 (ISO/IEC 23008-2)，同时将会被ITU-T组织定为H.265。HEVC / H.265 会更进一步的对多种色度格式、可伸缩编码和3D/立体/多视视频进行支持。在H.264格式视频广泛应用的今天，视频压缩效率显得至关重要，拥有高压缩效率的 HEVC / H.265 标准将必然被广泛应用。</p>
+<h3 id="关键技术解析"><a href="#关键技术解析" class="headerlink" title="关键技术解析"></a>关键技术解析</h3><h4 id="高层语法说明"><a href="#高层语法说明" class="headerlink" title="高层语法说明"></a>高层语法说明</h4><p>与H.264/AVC相同，HEVC / H.265 也分为视频编码层（Video Coding Layer, VCL）和网络虚拟层（Network Abstraction Layer, NAL）。原始视频经过VCL层，被编码成视频数据，然后经过NAL层，封装成一个个NAL包。HEVC / H.265 码流在应用过程中与H.264/AVC码流的区别就在于NAL层，为关注HEVC应用并对HEVC编码详细技术没有兴趣的开发人员提供帮助。</p>
+<h4 id="编码框架"><a href="#编码框架" class="headerlink" title="编码框架"></a>编码框架</h4><p>作为新一代视频编码标准，HEVC / H.265 仍使用与H.264/AVC类似的混合编码框架。在编码端，原始视频都是被分成块，再经过预测、变换、量化、熵编码后生成码流进行传输；在解码端都对码流进行熵解码、反量化、反变换、预测，再对得到的图像进行环路滤波。HEVC / H.265 与H.264/AVC在编码框架上最大的区别在于H.264/AVC的环路滤波只有Deblocking，而HEVC / H.265 包含Deblocking和SAO。</p>
+<h4 id="四叉树编码结构"><a href="#四叉树编码结构" class="headerlink" title="四叉树编码结构"></a>四叉树编码结构</h4><p>HEVC / H.265 中，较大的图像块可以是1个CU(Coding Unit)，也可以被划分成4个小的CU，小的CU对应的块可以被继续划分成4个更小的CU，直到码流里说明的最小CU为止，因此CU的结构可以抽象为一个四叉树结构。HEVC / H.265 标准规定CU不能小于8x8，码流中可以说明最小CU的尺寸是大于8x8的。编码后平坦的区域用大尺寸块块表示，复杂的区域用小尺寸块表示，从而提高了编码效率。</p>
+<h4 id="预测模块"><a href="#预测模块" class="headerlink" title="预测模块"></a>预测模块</h4><p>在混合编码框架中，视频中冗余的消除很大程度是通过预测模块的。HEVC / H.265 在预测模块比H.264/AVC采用更为精细复杂的预测算法，为压缩率的提高提供了很大贡献。</p>
+<h4 id="变换和量化"><a href="#变换和量化" class="headerlink" title="变换和量化"></a>变换和量化</h4><p>与H.264/AVC相比，HEVC / H.265 在变换上使用了更大的变换，并且每个尺寸的块除了DCT变换，在4x4的intra亮度块的时候还会使用DST变换。在量化上，HEVC / H.265 引入sign data hiding新技术，增加了编码的复杂性，但对解码的复杂性并没有影响。</p>
+<h4 id="其他技术"><a href="#其他技术" class="headerlink" title="其他技术"></a>其他技术</h4><p>HEVC / H.265 中熵编码、环路滤波、DPB（Decoded Picture Buffer）管理变化。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>已发表的论文</title>
+    <url>/publication/index.html</url>
+    <content><![CDATA[<h2 id="2010年及以前"><a href="#2010年及以前" class="headerlink" title="2010年及以前"></a>2010年及以前</h2><h3 id="期刊"><a href="#期刊" class="headerlink" title="期刊"></a>期刊</h3><ul>
+<li>Jun Sun, Wen Gao, Debin Zhao, Qingming Huang, “Statistical Model, Analysis and Approximation of Rate-Distortion Function in MPEG-4 FGS Videos,” IEEE Trans. Circuits Syst. Video Technol., Vol. 16, No. 4, pp. 535-539, Apr. 2006.</li>
+<li>Jun Sun, Wen Gao, Debin Zhao, Weiping Li, “On Rate-Distortion Modeling and Extraction of H.264/SVC Fine-Granular Scalable Video,” IEEE Trans. Circuits Syst. Video Technol., pp.1-14, Accepted in Jun. 2008. </li>
+<li>Xin Zhao, Jun Sun, Siwei Ma and Wen Gao, “Novel statistical modeling, analysis and implementation of rate-distortion estimation for H.264/AVC coders,” IEEE Trans. Circuits Syst. Video Technol., vol. 20, no. 5, pp. 647-660, May. 2010.</li>
+</ul>
+<h3 id="会议"><a href="#会议" class="headerlink" title="会议"></a>会议</h3><ul>
+<li>Jun Sun, Wen Gao, Debin Zhao, “Smooth Extraction of SVC Fine-Granular SNR Scalable Videos with a Virtual-GOP-Based Rate-Distortion Modeling,” in Proc. of SPIE Visual Communications and Image Processing (VCIP), San Jose, California USA, Jan. 2008. </li>
+<li>Jun Sun, Wen Gao, Debin Zhao, “Statistical Analysis and Modeling of Rate-Distortion Function in SVC Fine-Granular SNR Scalable Videos,” in Proc. of IEEE International Conference on Multimedia &amp; Expo (ICME), Beijing, China, Jul. 2007.</li>
+<li>Jun Sun, Wen Gao, Debin Zhao, “Rate-Distortion Modeling and it’s Application to Quality Layer Assignment in SVC Fine-Granular SNR Scalable Videos,” in Proc. of Picture Coding Symposium (PCS), Lisbon, Portugal, Nov. 2007.</li>
+<li>Jun Sun, Wen Gao, Debin Zhao, Qingming Huang, “A Simple Algorithm for Constant Quality Reconstruction of Scalable Video Using a New Analytical R-D Model,” in Proc. of IEEE Picture Coding Symposium (PCS), Beijing, China, Apr. 2006.</li>
+<li>Jun Sun, Wen Gao, Debin Zhao, Qingming Huang, “Statistical Model, Analysis and Approximation of Rate-Distortion Function in MPEG-4 FGS Videos,” in Proc. of Visual Communications and Image Processing (VCIP), SPIE Press, Beijing, China, Jul. 2005.</li>
+<li>Jun Sun, Wen Gao, Qingming Huang, “A Novel FGS Base-Layer Encoding Model And Weight-Based Rate Adaptation for Constant-Quality Streaming,” in Proc. of International Conference on Image and Graphics (ICIG), HongKong, Dec. 2004. </li>
+<li>Xin Zhao, Jun Sun, Wen Gao, “A Novel Rate Estimation Model for Mode Decision of H.264/AVC,” in Proc. of SPIE Visual Communications and Image Processing (VCIP), San Jose, California USA, Jan. 2009.</li>
+<li>Yue Wang, Jun Sun, Siwei Ma, Wen Gao, “Theoretic Analysis of Inter Frame Dependency in Video Coding,” in Proc. of Pacific-Rim Conference on Multimedia (PCM), Dec. 2008.</li>
+<li>Jianfei Huang, Jun Sun, Wen Gao, “A Novel Two-Pass VBR Coding Algorithm for the H.264/AVC Video Coder Based on a New Analytical R-D Model,” in Proc. of IEEE Picture Coding Symposium (PCS), Lisbon, Portugal, 2007.</li>
+<li>Da Liu, Debin Zhao, Jun Sun, Wen Gao, “Direct Mode Coding for B Pictures Using Virtual Reference,” in Proc. of IEEE International Conference on Multimedia &amp; Expo (ICME), Beijing, China, 2007.</li>
+<li>Ruiheng Li, Jun Sun and Wen Gao, “Fast Weighted Algorithms for Bitstream Extraction of SVC Medium-Grain Scalable Video Coding”. Proc. IEEE International Conference on Multimedia &amp; Expo (ICME 2010), Singapore, Jun. 2010.</li>
+<li>Zhenyu Wang, Luhong Liang, Xianguo Zhang, Jun Sun, Debin Zhao, Wen Gao, “A Novel Macro-Block Group Scheme of AVS Coding for Many-Core Processor,” in Proceedings of IEEE Pacific-Rim Conference International Conference on Multimedia, PCM2009, Bangkok,Thailand, Dec.2009</li>
+</ul>
+<h2 id="2011-2013"><a href="#2011-2013" class="headerlink" title="2011~2013"></a>2011~2013</h2><h3 id="期刊-1"><a href="#期刊-1" class="headerlink" title="期刊"></a>期刊</h3><ul>
+<li>Jun Sun, Yizhou Duan, Jiangtao Li, Jiaying Liu and Zongming Guo, “Rate-distortion analysis of dead-zone plus uniform threshold scalar quantization and its application–part I: fundamental theory,” IEEE Trans. Image Process., vol. 22, no. 1, pp. 202-214, Jan. 2013.</li>
+<li>Jun Sun, Yizhou Duan, Jiangtao Li, Jiaying Liu and Zongming Guo, “Rate-distortion analysis of dead-zone plus uniform threshold scalar quantization and its application–part II: two-pass VBR coding for H.264/AVC,” IEEE Trans. Image Process., vol. 22, no. 1, pp. 215-228, Jan. 2013.</li>
+</ul>
+<h3 id="会议-1"><a href="#会议-1" class="headerlink" title="会议"></a>会议</h3><ul>
+<li>Yizhou Duan, Jun Sun, Jiaying Liu and Zongming Guo, “Efficient dead-zone plus uniform threshold scalar quantization of generalized Gaussian random variables,” in Proc. IEEE Visual Communication and Image and Processing (VCIP), Tainan, Taiwan, Nov. 2011.</li>
+<li>Yizhou Duan, Jun Sun and Zongming Guo, “Rate-distortion analysis and modeling of dead-zone plus uniform threshold scalar quantization for generalized Gaussian random variables,” in Proc. Data Compression Conference (DCC), Snowbird, Utah, USA, Apr. 2012.</li>
+<li>Yizhou Duan, Jun Sun and Zongming Guo, “Novel rate-distortion modeling for H.264/AVC and its application in two-pass VBR coding,” Accepted by IEEE International Symposium on Circuits and Systems (ISCAS), Seoul, Korea, May. 2012.</li>
+<li>Wenyao Zhang, Jun Sun, Jiaying Liu and Zongming Guo, “Optimized bit extraction of SVC exploiting linear error model,” Accepted by IEEE International Symposium on Circuits and Systems (ISCAS), Seoul, Korea, May. 2012.</li>
+<li>Leju Yan, Jun Sun, Yizhou Duan, Zongming Guo, Implementation of HEVC decoder on x86 processors with SIMD optimization, IEEE Visual Communications and Image Processing  Conference(VCIP), San Diego, CA, USA, Nov. 27-30, 2012.</li>
+<li>Leju Yan, Yizhou Duan, Jun Sun and Zongming Guo, “An optimized real-time multi-thread HEVC decoder,” in Proc. IEEE Visual Communication and Image Processing (VCIP), San Diego, USA, Nov. 2012.   (Demo)</li>
+<li>Keji Chen, Yizhou Duan, Leju Yan, Jun Sun and Zongming Gu, Efficient SIMD Optimization of HEVC Encoder over X86 Processors, Asia Pacific Signal and Information Processing Association Annual Summit and Conference(APSIPA), Hollywood, CA, USA, Dec. 3-6, 2012.</li>
+<li>Yizhou Duan, Jun Sun, Zongming Guo , Rate-quantization and Distortion-quantization Models of Dead-zone Plus Uniform Threshold Scalar Quantizers for Generalized Gaussian Random Variables, 19th International Conference on Mutimedia Modeling(MMM), Huangshan, Anhui, China, January 7-9, 2013.</li>
+</ul>
+<h2 id="2014年及以后"><a href="#2014年及以后" class="headerlink" title="2014年及以后"></a>2014年及以后</h2><h3 id="期刊-2"><a href="#期刊-2" class="headerlink" title="期刊"></a>期刊</h3><ul>
+<li>Yizhou Duan, Jun Sun, Leju Yan, Keji Chen, and Zongming Guo, “Novel Efficient HEVC Decoding Solution on General-purpose Processors”, IEEE Trans. Multimedia (TMM), vol. 16, no. 7, pp. 1915 – 1928, November, 2014.</li>
+<li>Keji Chen, Jun Sun, Yizhou Duan, and Zongming Guo, “A Novel Wavefront-Based High Parallel Solution for HEVC Encoding”, Accepted by IEEE Trans. Circuits and Systems for Video Technology (TCSVT).</li>
+</ul>
+<h3 id="会议-2"><a href="#会议-2" class="headerlink" title="会议"></a>会议</h3><ul>
+<li>Shengbin Meng, Jun Sun, Yizhou Duan, Zongming Guo*, An Efficient Method For No-Reference H.264/SVC Bitstream Extraction, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Florence, Italy, May 4-9, 2014. Poster</li>
+<li>Shengbin Meng, Jun Sun*, Yilei Wang, Zongming Guo, A PID-based Quality Control Algorithm for SVC Video Streaming, IEEE International Conference on Communications (ICC), Sydney, Australia, June 10-14, 2014. Oral</li>
+<li>Shengbin Meng, Yizhou Duan, Jun Sun*, Zongming Guo, Highly Optimized Implementation of HEVC Decoder for General Processors, IEEE International Workshop on Multimedia Signal Processing (MMSP), Jakarta, Indonesia, September 22-24, 2014. Oral</li>
+<li>Keji Chen, Yizhou Duan, Jun Sun, Zongming Guo*, Towards Efficient Wavefront Parallel Encoding of HEVC: Parallelism Analysis and Improvement, IEEE International Workshop on Multimedia Signal Processing (MMSP), Jakarta, Indonesia, September 22-24, 2014. Oral</li>
+<li>Yanping Zhou, Yizhou Duan, Jun Sun* and Zongming Guo, Proportional Feedback Based Rate Control for Intra Frame of H.164/AVC High Profile, Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), Siem Reap, City of Angkor Wat, Cambodia, December 9-12, 2014. Oral</li>
+<li>Yanping Zhou, Yizhou Duan, Jun Sun* and Zongming Guo, Towards Simple and Smooth Rate Adaption for VBR Video in DASH, Visual Communications and Image Processing (VCIP), Valletta, Malta, December 7-10, 2014. Oral</li>
+<li>Jun Sun*, Yanping Zhou, Yizhou Duan and Zongming Guo, A Low-latency Peer-to-Peer Live and VOD Streaming System Based on Scalable Video Coding, Visual Communications and Image Processing (VCIP), Valletta, Malta, December 7-10, 2014. Demo</li>
+<li>Shengbin Meng, Jun Sun*, Zongming Guo, Software Solution for HEVC Encoding and Decoding, International Conference on MultiMedia Modeling (MMM), Sydney, Australia, January 5-7, 2015. Demo</li>
+<li>Jun Sun, Yizhou Duan, Qi Zhang, Jiasi Shen, Zongming Guo*, Towards Rate-Distortion Analysis of General Source Distributions: Property and Principles, Accepted by MMSP 2015. Oral</li>
+<li>Qi Zhang, Yizhou Duan, Jun Sun*, Zongming Guo, A Two-Stage Fast CU Size Decision Method for HEVC Intracoding, Accepted by MMSP 2015. Oral</li>
+<li>Keji Chen, Jun Sun, Yizhou Duan, Zongming Guo, A novel wavefront-based high parallel solution for HEVC encoding, Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2016).</li>
+<li>Shengbin Meng, Jun Sun, Yizhou Duan, Zongming Guo, Adaptive Video Streaming With Optimized Bitstream Extraction and PID-Based Quality Control, Accepted by IEEE Transactions on Multimedia (TMM 2016).</li>
+<li>Jiexi Wang, Shengbin Meng, Jun Sun, Zongming Guo, A general PID-based rate adaptation approach for TCP-based live streaming over mobile networks, Accepted by IEEE International Conference on Multimedia and Expo (ICME2016). Oral</li>
+<li>Zhenan Lin, Qi Zhang, Keji Chen, Jun Sun, Zongming Guo, Efficient Arbitrary Ratio Downscale Transcoding for HEVC, Accepted by IEEE International Conference on Visual Communications and Image Processing (VCIP2016). Oral</li>
+<li>Peng Xu, Keji Chen, Jun Sun, Xiangyang Ji, Zongming Guo, An Adaptive Intra-Frame Parallel Method based on Complexity Estimation for HEVC, Accepted by IEEE International Conference on Visual Communications and Image Processing (VCIP2016). Oral</li>
+<li>Keji ChenJun SunZongming Guo,Dachuan Zhao, A Novel Two-Step Integer-pixel Motion Estimation Algorithm for HEVC Encoding on a GPU, , Accepted by MultiMedia Modeling 23rd International Conference(MMM 2017). Oral</li>
+<li>Wang J, Lei W, Xu P, et al. Adaptive media playout buffer management for latency optimization of mobile live streaming[C]//Multimedia &amp; Expo Workshops (ICMEW), 2017 IEEE International Conference on. IEEE, 2017: 369-374. Oral</li>
+<li>Jing Q, Xu P, Sun J, et al. Efficient Logo Insertion Method for High-Resolution H. 265/HEVC Compressed Video[C]//Pacific Rim Conference on Multimedia. Springer, Cham, 2017: 674-682.</li>
+<li>Zhang Y, Lin Z, Feng W, et al. A Real-Time Multi-view AVS2 Decoder on Mobile Phone[C]//Pacific Rim Conference on Multimedia. Springer, Cham, 2017: 89-95.</li>
+<li>Zheng Y, Xu P, Sun J, et al. Gradient Based Interpolation for Intra Angular Prediction in HEVC[C]//Circuits and Systems (ISCAS), 2018 IEEE International Symposium on. IEEE, 2018: 1-5.</li>
+<li>Yinfan Zhang, Zhenan Lin, Weilun Feng, Jun Sun, Zongming Guo, A Real-Time Multi-view AVS2 Decoder on Mobile Phone. Pacific Rim Conference on Multimedia, 2017-5:89-95.</li>
+<li>Yushan Zheng ; Peng Xu ; Jun Sun ; Zongming Guo,Gradient Based Interpolation for Intra Angular Prediction in HEVC    2018 IEEE International Symposium on Circuits and Systems</li>
+<li>Yunchang Li, Qi Jing, Yingfan Zhang, Jun Sun, Efficient Rate Control Method for Logo Insertion Video Coding in HEVC. IEEE International Conference on Visual Communications and Image Processing    VCIP December 9-12, 2018, Taichung, Taiwan</li>
+<li>Y. Li, Z. Huang, J. Sun. An Efficient Logo Insertion Method for Video Coding in HEVC IEEE 21st International Workshop on Multimedia Signal Processing 27-29 Sept 2019. Oral</li>
+<li>Y. Li, Z. Huang, J. Sun. An Efficient Encoding Method for Video Compositing in HEVC. 26th International Conference on Multimedia Modeling (MMM2020). Oral</li>
+<li>Z. Huang, Y. Li, J. Sun. Efficient HEVC Downscale Transcoding Based on Coding Unit Information Mapping. 26th International Conference on Multimedia Modeling (MMM2020). Poster</li>
+</ul>
+]]></content>
+  </entry>
+</search>
