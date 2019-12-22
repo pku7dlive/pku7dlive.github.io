@@ -403,16 +403,16 @@ table {
   width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
-  border: 1px solid #ddd;
-  font-size: 14px;
+  border: 0px solid $table-border-color;
+  font-size: 15px;
   table-layout: fixed;
   word-wrap: break-all;
 }
 table>tbody>tr:nth-of-type(odd) {
-  background-color: #f9f9f9;
+  background-color: $table-row-odd-bg-color;
 }
 table>tbody>tr:hover {
-  background-color: #f5f5f5;
+  background-color: $table-row-hover-bg-color;
 }
 caption,
 th,
@@ -424,8 +424,8 @@ td {
 }
 th,
 td {
-  border-bottom: 3px solid #ddd;
-  border-right: 1px solid #eee;
+  border-bottom: 3px solid $table-cell-border-bottom-color;
+  border-right: 1px solid $table-cell-border-right-color;
 }
 th {
   padding-bottom: 10px;
@@ -907,16 +907,16 @@ pre .javascript .function {
 }
 .post-body .tabs ul.nav-tabs li.tab.active {
   border-top: 3px solid #fc6423;
-  border-left: 1px solid #ddd;
-  border-right: 1px solid #ddd;
+  border-left: 1px solid $table-border-color;
+  border-right: 1px solid $table-border-color;
   background-color: #fff;
 }
 @media (max-width: 413px) {
   .post-body .tabs ul.nav-tabs li.tab.active {
-    border-top: 1px solid #ddd;
+    border-top: 1px solid $table-border-color;
     border-left: 3px solid #fc6423;
-    border-right: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
+    border-right: 1px solid $table-border-color;
+    border-bottom: 1px solid $table-border-color;
   }
 }
 .post-body .tabs ul.nav-tabs li.tab.active a {
@@ -927,7 +927,7 @@ pre .javascript .function {
   background-color: #fff;
 }
 .post-body .tabs .tab-content .tab-pane {
-  border: 1px solid #ddd;
+  border: 1px solid $table-border-color;
   padding: 20px 20px 0 20px;
 }
 .post-body .tabs .tab-content .tab-pane:not(.active) {
@@ -1329,7 +1329,7 @@ pre .javascript .function {
   box-sizing: border-box;
   margin: auto;
   padding: 3px;
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
 }
 .posts-expand .post-body .fancybox img {
   margin: 0 auto 25px;
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a74563;
+  background: #ff9cba;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2698,7 +2698,7 @@ hr {
   float: right;
 }
 .menu {
-  float: right;
+  float: left;
   margin: 8px 0 0 0;
 }
 @media (max-width: 767px) {
