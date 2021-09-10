@@ -32,11 +32,11 @@
   <tr>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/activities/index/xiaopeng_mm1.png" style="width: 270px;height: 150px">
-    <a href="xiaopeng_mm.html"><strong>2021-07-03 [MM]郭晓鹏</strong></a>
+    <a href="xiaopeng_mm1.html"><strong>2021-07-03 [MM]郭晓鹏</strong></a>
     </td>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/activities/index/zhijie_tcsvt1.png" style="width: 270px;height: 150px">
-    <a href="zhijie_tcsvt.html"><strong>2021-06-15 [TCSVT]黄志杰</strong></a>
+    <a href="zhijie_tcsvt1.html"><strong>2021-06-15 [TCSVT]黄志杰</strong></a>
     </td>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/activities/index/jucan20210613.jpg" style="width: 270px;height: 150px">
@@ -44,7 +44,7 @@
     </td>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/activities/index/zhijie_tip.png" style="width: 270px;height: 150px">
-    <a href="zhijie_tip.html"><strong>2021-06-03 [TIP]黄志杰</strong></a>
+    <a href="zhijie_tip1.html"><strong>2021-06-03 [TIP]黄志杰</strong></a>
     </td>
   </tr>
 </tbody>
@@ -196,79 +196,12 @@
   </entry>
   <entry>
     <title></title>
-    <url>/activities/zhijie_tip.html</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-<meta name="generator" content="Hexo 4.2.1"></head>
-<body>
-<h3 style="text-align:center">Adaptive Deep Reinforcement Learning-Based In-Loop Filter for VVC</h3>
-<h4 style="text-align:center">Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang</h4>
-<img src="/activities/zhijie_tip.htm/zhijie_tip.png" style="width: 800px;">
-<h4>Abstract：</h4>Deep learning-based in-loop filters have recently
-demonstrated great improvement for both coding efficiency and
-subjective quality in video coding. However, most existing deep
-learning-based in-loop filters tend to develop a sophisticated
-model in exchange for good performance, and they employ a
-single network structure to all reconstructed samples, which lack
-sufficient adaptiveness to the various video content, limiting their
-performances to some extent. In contrast, this paper proposes an
-adaptive deep reinforcement learning-based in-loop filter (ARLF)
-for versatile video coding (VVC). Specifically, we treat the
-filtering as a decision-making process and employ an agent to
-select an appropriate network by leveraging recent advances in
-deep reinforcement learning. To this end, we develop a lightweight
-backbone and utilize it to design a network set S containing
-networks with different complexities. Then a simple but efficient
-agent network is designed to predict the optimal network from
-S, which makes the model adaptive to various video contents.
-To improve the robustness of our model, a two-stage training
-scheme is further proposed to train the agent and tune the
-network set. The coding tree unit (CTU) is seen as the basic
-unit for the in-loop filtering processing. A CTU level control flag
-is applied in the sense of rate-distortion optimization (RDO).
-Extensive experimental results show that our ARLF approach
-obtains on average 2.17%, 2.65%, 2.58%, 2.51% under allintra, 
-low-delay P, low-delay, and random access configurations,
-respectively. Compared with other deep learning-based methods,
-the proposed approach can achieve better performance with low
-computation complexity.
-<br>
-文章已被TIP2021收录，<a href="https://ieeexplore.ieee.org/document/9446562" target="_blank" rel="noopener"><strong>了解更多</strong></a>。
-</body>
-
-</html>]]></content>
-  </entry>
-  <entry>
-    <title></title>
     <url>/activities/zhijie_TCSVT.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title></title>
-    <url>/activities/xiaopeng_mm.html</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-<meta name="generator" content="Hexo 4.2.1"></head>
-<body>
-<h3 style="text-align:center">Enhancing knowledge tracing via adversarial training</h3>
-<h4 style="text-align:center">Xiaopeng Guo</h4>
-<img src="/activities/xiaopeng_mm.htm/xiaopeng_mm.png" style="width: 800px;">
-<h4>Abstract：</h4>Waiting for updating..
-<br>
-文章已被MM接收，发表后将更新详细链接。
-</body>
-
-</html>]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/activities/zhijie_tcsvt.html</url>
+    <url>/activities/zhijie_tcsvt1.html</url>
     <content><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -279,7 +212,7 @@ computation complexity.
 <h3 style="text-align:center">One-for-all: An Efficient Variable Convolution
     Neural Network for In-loop Filter of VVC</h3>
 <h4 style="text-align:center">Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang</h4>
-<img src="/activities/zhijie_tcsvt.htm/zhijie_tcsvt.png" style="width: 800px;">
+<img src="/activities/zhijie_tcsvt1.htm/zhijie_tcsvt.png" style="width: 800px;">
 <h4>Abstract：</h4>Recently, many researches on convolution neural
 network (CNN) based in-loop filters have been proposed to
 improve coding efficiency. However, most existing CNN based
@@ -310,6 +243,73 @@ random access configurations, respectively, which is even better
 than QP-Separate models.
 <br>
 文章已被IEEE TCSVT收录，<a href="https://ieeexplore.ieee.org/document/9455379" target="_blank" rel="noopener"><strong>了解更多</strong></a>。
+</body>
+
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/xiaopeng_mm1.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3 style="text-align:center">Enhancing knowledge tracing via adversarial training</h3>
+<h4 style="text-align:center">Xiaopeng Guo</h4>
+<img src="/activities/xiaopeng_mm1.htm/xiaopeng_mm.png" style="width: 800px;">
+<h4>Abstract：</h4>Waiting for updating..
+<br>
+文章已被MM接收，发表后将更新详细链接。
+</body>
+
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/zhijie_tip1.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3 style="text-align:center">Adaptive Deep Reinforcement Learning-Based In-Loop Filter for VVC</h3>
+<h4 style="text-align:center">Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang</h4>
+<img src="/activities/zhijie_tip1.htm/zhijie_tip.png" style="width: 800px;">
+<h4>Abstract：</h4>Deep learning-based in-loop filters have recently
+demonstrated great improvement for both coding efficiency and
+subjective quality in video coding. However, most existing deep
+learning-based in-loop filters tend to develop a sophisticated
+model in exchange for good performance, and they employ a
+single network structure to all reconstructed samples, which lack
+sufficient adaptiveness to the various video content, limiting their
+performances to some extent. In contrast, this paper proposes an
+adaptive deep reinforcement learning-based in-loop filter (ARLF)
+for versatile video coding (VVC). Specifically, we treat the
+filtering as a decision-making process and employ an agent to
+select an appropriate network by leveraging recent advances in
+deep reinforcement learning. To this end, we develop a lightweight
+backbone and utilize it to design a network set S containing
+networks with different complexities. Then a simple but efficient
+agent network is designed to predict the optimal network from
+S, which makes the model adaptive to various video contents.
+To improve the robustness of our model, a two-stage training
+scheme is further proposed to train the agent and tune the
+network set. The coding tree unit (CTU) is seen as the basic
+unit for the in-loop filtering processing. A CTU level control flag
+is applied in the sense of rate-distortion optimization (RDO).
+Extensive experimental results show that our ARLF approach
+obtains on average 2.17%, 2.65%, 2.58%, 2.51% under allintra, 
+low-delay P, low-delay, and random access configurations,
+respectively. Compared with other deep learning-based methods,
+the proposed approach can achieve better performance with low
+computation complexity.
+<br>
+文章已被TIP2021收录，<a href="https://ieeexplore.ieee.org/document/9446562" target="_blank" rel="noopener"><strong>了解更多</strong></a>。
 </body>
 
 </html>]]></content>
