@@ -124,19 +124,47 @@
   <entry>
     <title>视频编解码</title>
     <url>/hevc/index.html</url>
-    <content><![CDATA[<h2 id="视频编码标准"><a href="#视频编码标准" class="headerlink" title="视频编码标准"></a>视频编码标准</h2><p>研究室积极参与视频编码标准的制定并在AVS标准制定过程中做出应有贡献。主要参与制定如下标准。</p>
+    <content><![CDATA[<h2 id="视频编码标准"><a href="#视频编码标准" class="headerlink" title="视频编码标准"></a>视频编码标准</h2><p>研究室积极参与相关视频编码标准的制定，主导并参与制定多项AVS标准，为我国数字音视频产业发展做出应有贡献。</p>
 <div align="center" width="80%">
-    （AVS2）《信息技术 高效多媒体编码》（GB/T 33475）
-    <img width="70%" src="/hevc/index/AVS2.png">
+    （AVS1）《信息技术 先进音视频编码》（GB/T 20090）（主导）
+    <img width="70%" src="/hevc/index/1.png">
 </div>
 <div align="center" width="80%">
-    AVS团体标准（T/AVS）
-    <img width="70%" src="/hevc/index/AVS_T.png">
+    （AVS2）《信息技术 高效多媒体编码》（GB/T 33475）(参与)
+    <img width="70%" src="/hevc/index/2.png">
+</div>
+<div align="center" width="80%">
+    AVS团体标准（T/AVS）（参与）
+    <img width="70%" src="/hevc/index/3.png">
 </div>
 
-<h2 id="HEVC-H-265-编解码器"><a href="#HEVC-H-265-编解码器" class="headerlink" title="HEVC / H.265 编解码器"></a>HEVC / H.265 编解码器</h2><p>HEVC(High-Efficiency Video Coding) / H.265 标准是ISO/IEC和ITU-T联合制定的最新的视频编解码标准，能在相同的主观质量下比前一代标准H.264/AVC提高1倍的压缩率，是当前数字视频领域研究的热点。研究室持续开展面向HEVC的深入研究，研发出的Lentoid编解码器已在工业界广泛应用。</p>
-<h2 id="VVC编解码器"><a href="#VVC编解码器" class="headerlink" title="VVC编解码器"></a>VVC编解码器</h2><p>VVC（Versatile Video Coding）也称为H.266、MPEG-I第3部分或未来视频编码，是由联合视频专家组（JVET）于2020年7月6日最终确定的视频压缩标准。作为HEVC的后继标准，VVC较之HEVC在压缩视频效率方面有着近40%的提升。针对该新一代视频编码标准，研究室也进行了深入探索，利用深度学习技术设计了轻量级的环路滤波，在提升精度的同时有效降低了模型复杂度，取得了更好的编码效果。相应成果已被国际顶级期刊TIP和TCSVT收录。</p>
-]]></content>
+<h2 id="广义分布的率失真分析"><a href="#广义分布的率失真分析" class="headerlink" title="广义分布的率失真分析"></a>广义分布的率失真分析</h2><p>率失真理论是信息论的主要分支，其基本问题可以归结如下：对于一个给定的信源分布与失真度量，在特定的码率下能达到的最小期望失真。率失真理论为数据压缩的性能提供理论极限和比较标准，对具体编码方法的研究起到了方向指导作用。研究室深入分析研究了率失真理论，证明了广义高斯分布的率失真函数的<br>导数与分布的缩放参数无关，揭示了其导数值先减小后增大接近 6.02 dB/bit 的演变规律，进而提出了广义高斯分布达到最优率失真性能的量化模式法则，丰富了研究人员对率失真函数规律的认识外延。相应成果已被国际顶级期刊IEEE TIP以上下篇方式收录，系大陆机构首次。</p>
+<div align="center" width="80%">
+    <img width="70%" src="/hevc/index/4.png">
+    广义高斯分布
+</div>
+
+<h2 id="基于率失真分析的编码优化"><a href="#基于率失真分析的编码优化" class="headerlink" title="基于率失真分析的编码优化"></a>基于率失真分析的编码优化</h2><p>研究室基于率失真理论的研究成果对视频编码进行了相关优化研究。不同于以往编码方法通过复杂的模块计算得到码率和失真的关系，研究室以分布估计为主要技术手段，通过广义高斯分布量化的值来估算码率和失真的关系，从而显著减少编码计算量。相应成果已被国际顶级期刊IEEE TCSVT收录。 </p>
+<div align="center" width="80%">
+    <img width="70%" src="/hevc/index/5.png">
+    基于率失真理论的快速高效编码
+</div>
+
+<h2 id="高效视频编码的并行优化技术"><a href="#高效视频编码的并行优化技术" class="headerlink" title="高效视频编码的并行优化技术"></a>高效视频编码的并行优化技术</h2><p>当前国际主流编码标准HEVC中使用了大量新的技术，随之引入的是较高的编码复杂度，限制了其在实际场景中的应用。为此，研究室着眼于从不同层次上通过并行技术来加快HEVC的编码速度。在数据级并行层次，研究了HEVC编码中的耗时模块，提出了基于X86平台的数据级并行算法。在任务级并行层次，研究了不同视频内容对并行度的影响，并在波阵面并行处理技术的基础上，分别针对有延迟和低延迟的场景提出了帧间波阵面并行编码方法和基于有向无回图子图的自适应并行框架。相应成果已被国际顶级期刊IEEE TMM、TCSVT收录。</p>
+<div align="center" width="80%">
+    <img width="70%" src="/hevc/index/6.png">
+    数据级并行
+</div>
+<div align="center" width="80%">
+    <img width="70%" src="/hevc/index/7.png">
+    任务级并行
+</div>
+
+<h2 id="深度学习在环路滤波方面的应用"><a href="#深度学习在环路滤波方面的应用" class="headerlink" title="深度学习在环路滤波方面的应用"></a>深度学习在环路滤波方面的应用</h2><p>由于国际主流编码标准HEVC仍采用基于块的混合编码框架，一些失真效应仍然存在，如方块效应、振铃效应、颜色偏差及图像模糊等。环路滤波作为一种常用于解码端的后处理滤波技术，可有效解决此类问题。针对环路滤波，研究室也有针对性的进行了相关研究。利用深度学习与深度强化学习技术设计了轻量级的环路滤波模块，在提升精度的同时有效降低了模型复杂度，取得了更好的编码效果。相应成果已被国际顶级期刊TIP和TCSVT收录。</p>
+<div align="center" width="80%">
+    <img width="70%" src="/hevc/index/8.png">
+    基于自适应强化学习的环路滤波框架
+</div>]]></content>
   </entry>
   <entry>
     <title>专利列表</title>
