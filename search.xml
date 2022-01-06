@@ -31,6 +31,14 @@
 <tbody>
   <tr>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
+    <img src="/activities/index/zhijie_2022_01_05.jpg" style="width: 270px;height: 150px">
+    <a href="2022-01-05-1.html"><strong>2022-01-05 授奖 黄志杰</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
+    <img src="/activities/index/zhaohui_2022_01_05_1.jpg" style="width: 270px;height: 150px">
+    <a href="2022-01-05-2.html"><strong>2022-01-05 授奖 赵辉</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/activities/index/jucan20210926.jpg" style="width: 270px;height: 150px">
     <a href="2021-09-26.html"><strong>2021-09-26 聚餐</strong></a>
     </td>
@@ -38,6 +46,8 @@
     <img src="/activities/index/xiaopeng_mm1.png" style="width: 270px;height: 150px">
     <a href="xiaopeng_mm1.html"><strong>2021-07-03 [MM]郭晓鹏</strong></a>
     </td>
+  </tr>
+  <tr>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/activities/index/zhijie_tcsvt1.png" style="width: 270px;height: 150px">
     <a href="zhijie_tcsvt1.html"><strong>2021-06-15 [TCSVT]黄志杰</strong></a>
@@ -46,8 +56,6 @@
     <img src="/activities/index/jucan20210613.jpg" style="width: 270px;height: 150px">
     <a href="2021-06-13.html"><strong>2021-06-13 聚餐</strong></a>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/activities/index/zhijie_tip1.png" style="width: 270px;height: 150px">
     <a href="zhijie_tip1.html"><strong>2021-06-03 [TIP]黄志杰</strong></a>
@@ -401,6 +409,37 @@ computation complexity.
 <body>
 <h3>实验室聚餐 雪中鲜鱼村</h3>
 <img src="/activities/2021-09-26.htm/jucan20210926.jpg" style="width: 500px;">
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2022-01-05-1.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3>恭喜黄志杰同学荣获王选所2021年度优秀学生奖项！</h3>
+<img src="/activities/2022-01-05-1.htm/zhijie_2022_01_05.jpg" style="width: 500px;">
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2022-01-05-2.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3>恭喜赵辉同学荣获王选所2021年度优秀班干部奖项！</h3>
+<img src="/activities/2022-01-05-2.htm/zhaohui_2022_01_05_1.jpg" style="width: 500px;">
+<img src="/activities/2022-01-05-2.htm/zhaohui_2022_01_05_2.jpg" style="width: 500px;">
 </body>
 </html>]]></content>
   </entry>
