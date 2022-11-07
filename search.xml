@@ -31,6 +31,14 @@
 <tbody>
   <tr>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
+        <img src="/activities/index/zhijie_tomm1.png" style="width: 270px;height: 150px">
+        <a href="zhijie_tomm1.html"><strong>2022-10-27 [TOMM]黄志杰</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
+        <img src="/activities/index/jucan20220925.jpg" style="width: 270px;height: 150px">
+        <a href="2022-09-25.html"><strong>2022-09-25 聚餐</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
         <img src="/activities/index/jucan20220306.jpg" style="width: 270px;height: 150px">
         <a href="2022-03-06.html"><strong>2022-03-06 聚餐</strong></a>
     </td>
@@ -38,33 +46,35 @@
         <img src="/activities/index/zhijie_2022_01_05.jpg" style="width: 270px;height: 150px">
         <a href="2022-01-05-1.html"><strong>2022-01-05 授奖 黄志杰</strong></a>
     </td>
-    <td style="text-align: center; vertical-align: middle !important; height: 150px">
-        <img src="/activities/index/zhaohui_2022_01_05.jpg" style="width: 270px;height: 150px">
-        <a href="2022-01-05-2.html"><strong>2022-01-05 授奖 赵辉</strong></a>
-    </td>
-    <td style="text-align: center; vertical-align: middle !important; height: 150px">
-        <img src="/activities/index/jucan20210926.jpg" style="width: 270px;height: 150px">
-        <a href="2021-09-26.html"><strong>2021-09-26 聚餐</strong></a>
-    </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle !important; height: 150px">
-        <img src="/activities/index/xiaopeng_mm1.png" style="width: 270px;height: 150px">
-        <a href="xiaopeng_mm1.html"><strong>2021-07-03 [MM]郭晓鹏</strong></a>
-    </td>
-    <td style="text-align: center; vertical-align: middle !important; height: 150px">
-        <img src="/activities/index/zhijie_tcsvt1.png" style="width: 270px;height: 150px">
-        <a href="zhijie_tcsvt1.html"><strong>2021-06-15 [TCSVT]黄志杰</strong></a>
-    </td>
-    <td style="text-align: center; vertical-align: middle !important; height: 150px">
-        <img src="/activities/index/jucan20210613.jpg" style="width: 270px;height: 150px">
-        <a href="2021-06-13.html"><strong>2021-06-13 聚餐</strong></a>
-    </td>
-    <td style="text-align: center; vertical-align: middle !important; height: 150px">
-        <img src="/activities/index/zhijie_tip1.png" style="width: 270px;height: 150px">
-        <a href="zhijie_tip1.html"><strong>2021-06-03 [TIP]黄志杰</strong></a>
-    </td>
+      <td style="text-align: center; vertical-align: middle !important; height: 150px">
+          <img src="/activities/index/zhaohui_2022_01_05.jpg" style="width: 270px;height: 150px">
+          <a href="2022-01-05-2.html"><strong>2022-01-05 授奖 赵辉</strong></a>
+      </td>
+      <td style="text-align: center; vertical-align: middle !important; height: 150px">
+          <img src="/activities/index/jucan20210926.jpg" style="width: 270px;height: 150px">
+          <a href="2021-09-26.html"><strong>2021-09-26 聚餐</strong></a>
+      </td>
+      <td style="text-align: center; vertical-align: middle !important; height: 150px">
+          <img src="/activities/index/xiaopeng_mm1.png" style="width: 270px;height: 150px">
+          <a href="xiaopeng_mm1.html"><strong>2021-07-03 [MM]郭晓鹏</strong></a>
+      </td>
+      <td style="text-align: center; vertical-align: middle !important; height: 150px">
+          <img src="/activities/index/zhijie_tcsvt1.png" style="width: 270px;height: 150px">
+          <a href="zhijie_tcsvt1.html"><strong>2021-06-15 [TCSVT]黄志杰</strong></a>
+      </td>
   </tr>
+  <tr>
+      <td style="text-align: center; vertical-align: middle !important; height: 150px">
+          <img src="/activities/index/jucan20210613.jpg" style="width: 270px;height: 150px">
+          <a href="2021-06-13.html"><strong>2021-06-13 聚餐</strong></a>
+      </td>
+      <td style="text-align: center; vertical-align: middle !important; height: 150px">
+          <img src="/activities/index/zhijie_tip1.png" style="width: 270px;height: 150px">
+          <a href="zhijie_tip1.html"><strong>2021-06-03 [TIP]黄志杰</strong></a>
+      </td>
+    </tr>
 </tbody>
 </table>
 </div>
@@ -247,7 +257,7 @@
   <entry>
     <title>已发表的论文</title>
     <url>/publication/index.html</url>
-    <content><![CDATA[<h2 id="期刊"><a href="#期刊" class="headerlink" title="期刊"></a>期刊</h2><p>[1] Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang. One-for-all: An Efficient Variable Convolution Neural Network for In-loop Filter of VVC[J]. IEEE Trans. Circuits and Systems for Video Technology (TCSVT), 2021.<br>[2] Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang. Adaptive Deep Reinforcement Learning-Based In-Loop Filter for VVC[J]. IEEE Transactions on Image Processing (TIP), 2021.<br>[3] Shengbin Meng, Jun Sun, Yizhou Duan, and Zongming Guo. Adaptive Video Streaming With Optimized Bitstream Extraction and PID-Based Quality Control[J]. IEEE Transactions on Multimedia, 2016.<br>[4] Keji Chen, Jun Sun, Yizhou Duan, and Zongming Guo, “A Novel Wavefront-Based High Parallel Solution for HEVC Encoding”, Accepted by IEEE Trans. Circuits and Systems for Video Technology (TCSVT), 2015.<br>[5] Yizhou Duan, Jun Sun, Leju Yan, Keji Chen, and Zongming Guo, “Novel Efficient HEVC Decoding Solution on General-purpose Processors”, IEEE Trans. Multimedia (TMM), vol. 16, no. 7, pp. 1915 – 1928, November, 2014.<br>[6] Jun Sun, Yizhou Duan, Jiangtao Li, Jiaying Liu and Zongming Guo, “Rate-distortion analysis of dead-zone plus uniform threshold scalar quantization and its application–part I: fundamental theory,” IEEE Trans. Image Process., 2013.<br>[7] Jun Sun, Yizhou Duan, Jiangtao Li, Jiaying Liu and Zongming Guo, “Rate-distortion analysis of dead-zone plus uniform threshold scalar quantization and its application–part II: two-pass VBR coding for H.264/AVC,” IEEE Trans. Image Process., 2013.<br>[8] Xin Zhao, Jun Sun, Siwei Ma and Wen Gao, “Novel statistical modeling, analysis and implementation of rate-distortion estimation for H.264/AVC coders,” IEEE Trans. Circuits Syst. Video Technol., vol. 20, no. 5, pp. 647-660, May. 2010.<br>[9] Jun Sun, Wen Gao, Debin Zhao, Weiping Li, “On Rate-Distortion Modeling and Extraction of H.264/SVC Fine-Granular Scalable Video,” IEEE Trans. Circuits Syst. Video Technol., pp.1-14, Accepted in Jun. 2008.<br>[10] Jun Sun, Wen Gao, Debin Zhao, Qingming Huang, “Statistical Model, Analysis and Approximation of Rate-Distortion Function in MPEG-4 FGS Videos,” IEEE Trans. Circuits Syst. Video Technol., Vol. 16, No. 4, pp. 535-539, Apr. 2006.</p>
+    <content><![CDATA[<h2 id="期刊"><a href="#期刊" class="headerlink" title="期刊"></a>期刊</h2><p>[1] Zhijie Huang, Jun Sun, Xiaopeng Guo. FastCNN: Towards Fast and Accurate Spatio-temporal Network for HEVC Compressed Video Enhancement[J]. ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), 2022.<br>[2] Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang. One-for-all: An Efficient Variable Convolution Neural Network for In-loop Filter of VVC[J]. IEEE Trans. Circuits and Systems for Video Technology (TCSVT), 2021.<br>[3] Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang. Adaptive Deep Reinforcement Learning-Based In-Loop Filter for VVC[J]. IEEE Transactions on Image Processing (TIP), 2021.<br>[4] Shengbin Meng, Jun Sun, Yizhou Duan, and Zongming Guo. Adaptive Video Streaming With Optimized Bitstream Extraction and PID-Based Quality Control[J]. IEEE Transactions on Multimedia, 2016.<br>[5] Keji Chen, Jun Sun, Yizhou Duan, and Zongming Guo, “A Novel Wavefront-Based High Parallel Solution for HEVC Encoding”, Accepted by IEEE Trans. Circuits and Systems for Video Technology (TCSVT), 2015.<br>[6] Yizhou Duan, Jun Sun, Leju Yan, Keji Chen, and Zongming Guo, “Novel Efficient HEVC Decoding Solution on General-purpose Processors”, IEEE Trans. Multimedia (TMM), vol. 16, no. 7, pp. 1915 – 1928, November, 2014.<br>[7] Jun Sun, Yizhou Duan, Jiangtao Li, Jiaying Liu and Zongming Guo, “Rate-distortion analysis of dead-zone plus uniform threshold scalar quantization and its application–part I: fundamental theory,” IEEE Trans. Image Process., 2013.<br>[8] Jun Sun, Yizhou Duan, Jiangtao Li, Jiaying Liu and Zongming Guo, “Rate-distortion analysis of dead-zone plus uniform threshold scalar quantization and its application–part II: two-pass VBR coding for H.264/AVC,” IEEE Trans. Image Process., 2013.<br>[9] Xin Zhao, Jun Sun, Siwei Ma and Wen Gao, “Novel statistical modeling, analysis and implementation of rate-distortion estimation for H.264/AVC coders,” IEEE Trans. Circuits Syst. Video Technol., vol. 20, no. 5, pp. 647-660, May. 2010.<br>[10] Jun Sun, Wen Gao, Debin Zhao, Weiping Li, “On Rate-Distortion Modeling and Extraction of H.264/SVC Fine-Granular Scalable Video,” IEEE Trans. Circuits Syst. Video Technol., pp.1-14, Accepted in Jun. 2008.<br>[11] Jun Sun, Wen Gao, Debin Zhao, Qingming Huang, “Statistical Model, Analysis and Approximation of Rate-Distortion Function in MPEG-4 FGS Videos,” IEEE Trans. Circuits Syst. Video Technol., Vol. 16, No. 4, pp. 535-539, Apr. 2006.</p>
 <h2 id="会议"><a href="#会议" class="headerlink" title="会议"></a>会议</h2><h3 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h3><p>[1] Xiaopeng Guo, Zhijie Huang, Jie Gao, Mingyu Shang, Maojing Shu, Jun Sun. Enhancing Knowledge Tracing via Adversarial Training. ACM Multimedia, 2021. Oral. <a href="https://dl.acm.org/doi/pdf/10.1145/3474085.3475554" target="_blank" rel="noopener">[PDF]</a> <a href="https://github.com/xiaopengguo/ATKT" target="_blank" rel="noopener">[Code]</a></p>
 <h3 id="2015-2020"><a href="#2015-2020" class="headerlink" title="2015~2020"></a>2015~2020</h3><p>[1] Zhijie Huang, Xiaopeng Guo, Mingyu Shang, Jie Gao, Jun Sun. An Efficient QP Variable Convolutional Neural Network Based In-loop Filter for Intra Coding. Data Compression Conference. IEEE, 2020.<br>[2] Y. Li, Z. Huang, J. Sun. An Efficient Encoding Method for Video Compositing in HEVC. 26th International Conference on Multimedia Modeling (MMM2020). Oral<br>[3] Z. Huang, Y. Li, J. Sun. Efficient HEVC Downscale Transcoding Based on Coding Unit Information Mapping. 26th International Conference on Multimedia Modeling (MMM2020). Poster<br>[4] Y. Li, Z. Huang, J. Sun. An Efficient Logo Insertion Method for Video Coding in HEVC IEEE 21st International Workshop on Multimedia Signal Processing 27-29 Sept 2019. Oral<br>[5] Zheng Y, Xu P, Sun J, et al. Gradient Based Interpolation for Intra Angular Prediction in HEVC[C]//Circuits and Systems (ISCAS), 2018 IEEE International Symposium on. IEEE, 2018: 1-5.<br>[6] Yushan Zheng ; Peng Xu ; Jun Sun ; Zongming Guo,Gradient Based Interpolation for Intra Angular Prediction in HEVC 2018 IEEE International Symposium on Circuits and Systems<br>[7] Yunchang Li, Qi Jing, Yingfan Zhang, Jun Sun, Efficient Rate Control Method for Logo Insertion Video Coding in HEVC. IEEE International Conference on Visual Communications and Image Processing VCIP December 9-12, 2018, Taichung, Taiwan<br>[8] Keji ChenJun SunZongming Guo,Dachuan Zhao, A Novel Two-Step Integer-pixel Motion Estimation Algorithm for HEVC Encoding on a GPU, , Accepted by MultiMedia Modeling 23rd International Conference(MMM 2017). Oral<br>[9] Wang J, Lei W, Xu P, et al. Adaptive media playout buffer management for latency optimization of mobile live streaming[C]//Multimedia &amp; Expo Workshops (ICMEW), 2017 IEEE International Conference on. IEEE, 2017: 369-374. Oral<br>[10] Jing Q, Xu P, Sun J, et al. Efficient Logo Insertion Method for High-Resolution H. 265/HEVC Compressed Video[C]//Pacific Rim Conference on Multimedia. Springer, Cham, 2017: 674-682.<br>[11] Zhang Y, Lin Z, Feng W, et al. A Real-Time Multi-view AVS2 Decoder on Mobile Phone[C]//Pacific Rim Conference on Multimedia. Springer, Cham, 2017: 89-95.<br>[12] Yinfan Zhang, Zhenan Lin, Weilun Feng, Jun Sun, Zongming Guo, A Real-Time Multi-view AVS2 Decoder on Mobile Phone. Pacific Rim Conference on Multimedia, 2017-5:89-95.<br>[13] Keji Chen, Jun Sun, Yizhou Duan, Zongming Guo, A novel wavefront-based high parallel solution for HEVC encoding, Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2016).<br>[14] Shengbin Meng, Jun Sun, Yizhou Duan, Zongming Guo, Adaptive Video Streaming With Optimized Bitstream Extraction and PID-Based Quality Control, Accepted by IEEE Transactions on Multimedia (TMM 2016).<br>[15] Jiexi Wang, Shengbin Meng, Jun Sun, Zongming Guo, A general PID-based rate adaptation approach for TCP-based live streaming over mobile networks, Accepted by IEEE International Conference on Multimedia and Expo (ICME2016). Oral<br>[16] Zhenan Lin, Qi Zhang, Keji Chen, Jun Sun, Zongming Guo, Efficient Arbitrary Ratio Downscale Transcoding for HEVC, Accepted by IEEE International Conference on Visual Communications and Image Processing (VCIP2016). Oral<br>[17] Peng Xu, Keji Chen, Jun Sun, Xiangyang Ji, Zongming Guo, An Adaptive Intra-Frame Parallel Method based on Complexity Estimation for HEVC, Accepted by IEEE International Conference on Visual Communications and Image Processing (VCIP2016). Oral</p>
 <h3 id="2015及以前"><a href="#2015及以前" class="headerlink" title="2015及以前"></a>2015及以前</h3><p>[1] Shengbin Meng, Jun Sun , Zongming Guo, Software Solution for HEVC Encoding and Decoding, International Conference on MultiMedia Modeling (MMM), Sydney, Australia, January 5-7, 2015. Demo<br>[2] Jun Sun, Yizhou Duan, Qi Zhang, Jiasi Shen, Zongming Guo , Towards Rate-Distortion Analysis of General Source Distributions: Property and Principles, Accepted by MMSP 2015. Oral<br>[3] Qi Zhang, Yizhou Duan, Jun Sun , Zongming Guo, A Two-Stage Fast CU Size Decision Method for HEVC Intracoding, Accepted by MMSP 2015. Oral<br>[4] Shengbin Meng, Jun Sun, Yizhou Duan, Zongming Guo , An Efficient Method For No-Reference H.264/SVC Bitstream Extraction, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Florence, Italy, May 4-9, 2014. Poster<br>[5] Shengbin Meng, Jun Sun , Yilei Wang, Zongming Guo, A PID-based Quality Control Algorithm for SVC Video Streaming, IEEE International Conference on Communications (ICC), Sydney, Australia, June 10-14, 2014. Oral<br>[6] Shengbin Meng, Yizhou Duan, Jun Sun , Zongming Guo, Highly Optimized Implementation of HEVC Decoder for General Processors, IEEE International Workshop on Multimedia Signal Processing (MMSP), Jakarta, Indonesia, September 22-24, 2014. Oral<br>[7] Keji Chen, Yizhou Duan, Jun Sun, Zongming Guo , Towards Efficient Wavefront Parallel Encoding of HEVC: Parallelism Analysis and Improvement, IEEE International Workshop on Multimedia Signal Processing (MMSP), Jakarta, Indonesia, September 22-24, 2014. Oral<br>[8] Yanping Zhou, Yizhou Duan, Jun Sun and Zongming Guo, Proportional Feedback Based Rate Control for Intra Frame of H.164/AVC High Profile, Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), Siem Reap, City of Angkor Wat, Cambodia, December 9-12, 2014. Oral<br>[9] Yanping Zhou, Yizhou Duan, Jun Sun and Zongming Guo, Towards Simple and Smooth Rate Adaption for VBR Video in DASH, Visual Communications and Image Processing (VCIP), Valletta, Malta, December 7-10, 2014. Oral<br>[10] Jun Sun , Yanping Zhou, Yizhou Duan and Zongming Guo, A Low-latency Peer-to-Peer Live and VOD Streaming System Based on Scalable Video Coding, Visual Communications and Image Processing (VCIP), Valletta, Malta, December 7-10, 2014. Demo<br>[11] Yizhou Duan, Jun Sun, Zongming Guo , Rate-quantization and Distortion-quantization Models of Dead-zone Plus Uniform Threshold Scalar Quantizers for Generalized Gaussian Random Variables, 19th International Conference on Mutimedia Modeling(MMM), Huangshan, Anhui, China, January 7-9, 2013.<br>[12] Yizhou Duan, Jun Sun and Zongming Guo, “Rate-distortion analysis and modeling of dead-zone plus uniform threshold scalar quantization for generalized Gaussian random variables,” in Proc. Data Compression Conference (DCC), Snowbird, Utah, USA, Apr. 2012.<br>[13] Yizhou Duan, Jun Sun and Zongming Guo, “Novel rate-distortion modeling for H.264/AVC and its application in two-pass VBR coding,” Accepted by IEEE International Symposium on Circuits and Systems (ISCAS), Seoul, Korea, May. 2012.<br>[14] Wenyao Zhang, Jun Sun, Jiaying Liu and Zongming Guo, “Optimized bit extraction of SVC exploiting linear error model,” Accepted by IEEE International Symposium on Circuits and Systems (ISCAS), Seoul, Korea, May. 2012.<br>[15] Leju Yan, Jun Sun, Yizhou Duan, Zongming Guo, Implementation of HEVC decoder on x86 processors with SIMD optimization, IEEE Visual Communications and Image Processing Conference(VCIP), San Diego, CA, USA, Nov. 27-30, 2012.<br>[16] Leju Yan, Yizhou Duan, Jun Sun and Zongming Guo, “An optimized real-time multi-thread HEVC decoder,” in Proc. IEEE Visual Communication and Image Processing (VCIP), San Diego, USA, Nov. 2012. (Demo)<br>[17] Keji Chen, Yizhou Duan, Leju Yan, Jun Sun and Zongming Gu, Efficient SIMD Optimization of HEVC Encoder over X86 Processors, Asia Pacific Signal and Information Processing Association Annual Summit and Conference(APSIPA), Hollywood, CA, USA, Dec. 3-6, 2012.<br>[18] Yizhou Duan, Jun Sun, Jiaying Liu and Zongming Guo, “Efficient dead-zone plus uniform threshold scalar quantization of generalized Gaussian random variables,” in Proc. IEEE Visual Communication and Image and Processing (VCIP), Tainan, Taiwan, Nov. 2011.<br>[19] Ruiheng Li, Jun Sun and Wen Gao, “Fast Weighted Algorithms for Bitstream Extraction of SVC Medium-Grain Scalable Video Coding”. Proc. IEEE International Conference on Multimedia &amp; Expo (ICME 2010), Singapore, Jun. 2010.<br>[20] Xin Zhao, Jun Sun, Wen Gao, “A Novel Rate Estimation Model for Mode Decision of H.264/AVC,” in Proc. of SPIE Visual Communications and Image Processing (VCIP), San Jose, California USA, Jan. 2009.<br>[21] Zhenyu Wang, Luhong Liang, Xianguo Zhang, Jun Sun, Debin Zhao, Wen Gao, “A Novel Macro-Block Group Scheme of AVS Coding for Many-Core Processor,” in Proceedings of IEEE Pacific-Rim Conference International Conference on Multimedia, PCM2009, Bangkok,Thailand, Dec.2009<br>[22] Jun Sun, Wen Gao, Debin Zhao, “Smooth Extraction of SVC Fine-Granular SNR Scalable Videos with a Virtual-GOP-Based Rate-Distortion Modeling,” in Proc. of SPIE Visual Communications and Image Processing (VCIP), San Jose, California USA, Jan. 2008.<br>[23] Yue Wang, Jun Sun, Siwei Ma, Wen Gao, “Theoretic Analysis of Inter Frame Dependency in Video Coding,” in Proc. of Pacific-Rim Conference on Multimedia (PCM), Dec. 2008.<br>[24] Jun Sun, Wen Gao, Debin Zhao, “Statistical Analysis and Modeling of Rate-Distortion Function in SVC Fine-Granular SNR Scalable Videos,” in Proc. of IEEE International Conference on Multimedia &amp; Expo (ICME), Beijing, China, Jul. 2007.<br>[25] Jun Sun, Wen Gao, Debin Zhao, “Rate-Distortion Modeling and it’s Application to Quality Layer Assignment in SVC Fine-Granular SNR Scalable Videos,” in Proc. of Picture Coding Symposium (PCS), Lisbon, Portugal, Nov. 2007.<br>[26] Jianfei Huang, Jun Sun, Wen Gao, “A Novel Two-Pass VBR Coding Algorithm for the H.264/AVC Video Coder Based on a New Analytical R-D Model,” in Proc. of IEEE Picture Coding Symposium (PCS), Lisbon, Portugal, 2007.<br>[27] Da Liu, Debin Zhao, Jun Sun, Wen Gao, “Direct Mode Coding for B Pictures Using Virtual Reference,” in Proc. of IEEE International Conference on Multimedia &amp; Expo (ICME), Beijing, China, 2007.<br>[28] Jun Sun, Wen Gao, Debin Zhao, Qingming Huang, “A Simple Algorithm for Constant Quality Reconstruction of Scalable Video Using a New Analytical R-D Model,” in Proc. of IEEE Picture Coding Symposium (PCS), Beijing, China, Apr. 2006.<br>[29] Jun Sun, Wen Gao, Debin Zhao, Qingming Huang, “Statistical Model, Analysis and Approximation of Rate-Distortion Function in MPEG-4 FGS Videos,” in Proc. of Visual Communications and Image Processing (VCIP), SPIE Press, Beijing, China, Jul. 2005.<br>[30] Jun Sun, Wen Gao, Qingming Huang, “A Novel FGS Base-Layer Encoding Model And Weight-Based Rate Adaptation for Constant-Quality Streaming,” in Proc. of International Conference on Image and Graphics (ICIG), HongKong, Dec. 2004.</p>
@@ -458,6 +468,60 @@ computation complexity.
 <body>
 <h3>实验室聚餐 102蹄花火锅</h3>
 <img src="/activities/2022-03-06.htm/jucan20220306.jpg" style="width: 500px;">
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2022-09-25.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3>实验室聚餐 北京秀儿四九城餐厅</h3>
+<br><br>
+<img src="/activities/2022-09-25.htm/jucan20220925.jpg" style="width: 500px;">
+
+<!--https://api.bilibili.com/x/web-interface/view?bvid=BV1ee411F7wY-->
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+    <iframe src="//player.bilibili.com/player.html?aid=262362771&cid=883858988&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 70%; height: 70%; left: 140px; top: 80px;">
+    </iframe>
+</div>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+    <iframe src="//player.bilibili.com/player.html?aid=347356105&cid=883860034&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 70%; height: 70%; left: 140px; top: 0;">
+    </iframe>
+</div>
+
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/zhijie_tomm1.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3 style="text-align:center">FastCNN: Towards Fast and Accurate Spatio-temporal Network for HEVC Compressed Video Enhancement</h3>
+<h4 style="text-align:center">Zhijie Huang, Jun Sun, Xiaopeng Guo</h4>
+<img src="/activities/zhijie_tomm1.htm/zhijie_tomm.png" style="width: 800px;">
+<h4>Abstract：</h4>
+Deep neural networks have achieved remarkable success in HEVC compressed video quality enhancement. However, most existing multi-frame based methods either deliver unsatisfactory results or consume a significant amount of resources to leverage temporal information of neighbor frames. For the sake of practicality, a thorough investigation of the architecture design of the video quality enhancement network, regarding enhancement performance, model parameters, and running speed, is essential. In this paper, we firstly propose an efficient alignment module that can fast and accurately aggregate the spatio-temporal information of neighbor frames. The proposed module estimates deformable offsets progressively in lower resolution space, motivated by the observation of offset correlations between adjacent pixels. Then the quantization parameter (QP) that represents the compression level prior knowledge is utilized to guide the aligned feature enhancement. By combining alignment feature distillation with residual feature correction, we obtain an efficient QP attention block. To save the storage space of the network, we design a hash buffer to store QP embedding features. The efficient components allow our network to effectively exploit temporal redundancies and obtain favorable enhancement capability while maintaining a lightweight structure and fast running speed. Extensive experiments demonstrate that the proposed approach outperforms state-of-the-art methods over different QPs by up to 0.09-0.11dB, while the inference time can be reduced by up to 69%.
+<br>
+<h4>简介：</h4>
+当前，主流的视频编解码标准H.264/AVC，H.265/HEVC，H.266/VVC都采用了基于块的混合压缩编码框架。因此，压缩后的视频通常会出现一些复杂的失真，如块效应、振铃现象、模糊等。这些视觉失真严重降低了观众的体验质量。压缩视频质量增强的目的是从退化的视频中恢复更接近原始帧的清晰帧。这项任务已经成为多媒体和计算机视觉任务中一个越来越重要的研究课题。
+目前，深度神经网络在HEVC压缩视频质量提升方面已经取得了显著的成功。然而，现有的大多数基于多帧的增强方法要么效果不甚理想，要么需要消耗大量的资源来利用相邻帧的时域信息。现有方法的性能远远不能达到实时性，而一种快速的、不牺牲质量的方法对于实际应用是至关重要的。另一方面，现有的工作忽略了量化参数对压缩视频增强的影响。由于不同的量化参数，不同帧的质量存在相对明显的变化。因此，值得研究的是如何有效地利用多帧量化参数信息用于视频增强。
+为了解决上述问题，我们首先提出了一个基于可变形卷积的高效压缩视频增强方法框架，如图1所示。该框架由时域对齐模块、量化参数嵌入模块以及特征增强模块构成。其中，我们观察到相邻像素之间的偏移相关性，从而提出从较低的分辨率空间中逐步估计可变形卷积的偏移量，进而以快速、准确地融合相邻帧的时空信息。然后，代表压缩水平先验知识的量化参数被利用来指导对齐特征的增强。通过将对齐特征微调与残差特征校正相结合，我们得到了一个高效的量化参数注意力块。为了节省网络的存储空间，我们设计了一个哈希缓冲器来存储量化参数的嵌入特征。这些高效的组件使我们的网络能够有效地利用相关信息，同时保持轻量级结构和极快的运行速度。
+如图2所示，实验表明所提出的方法与最新方法相比，不仅增强质量更优，同时推理速度也更快。这部分成果发表在2022年的ACM Transactions on Multimedia Computing, Communications, and Applications上。
+<br><br>
+文章已被TOMM2022收录，<a href="https://www.semanticscholar.org/paper/FastCNN%3A-Towards-Fast-and-Accurate-Spatio-temporal-Huang-Sun/851191ee20525b2dd8d46f4b51f3208c50fcdba4" target="_blank" rel="noopener"><strong>了解更多</strong></a>。
 </body>
 </html>]]></content>
   </entry>
