@@ -17,8 +17,13 @@
   </tr>
 </table>
 
-<h2 id="Ph-D"><a href="#Ph-D" class="headerlink" title="Ph.D."></a>Ph.D.</h2><p><strong>Mingyu Shang</strong><br>Email: <a href="mailto:shangki@pku.edu.cn">shangki@pku.edu.cn</a></p>
+<h2 id="Ph-D"><a href="#Ph-D" class="headerlink" title="Ph.D."></a>Ph.D.</h2><p><strong>Mingyu Shang</strong><br>Email: <a href="mailto:mingyu.shang@pku.edu.cn">mingyu.shang@pku.edu.cn</a></p>
 <p><strong>Zhijie Huang</strong><br>Email: <a href="mailto:zhijiehuang@pku.edu.cn">zhijiehuang@pku.edu.cn</a></p>
+<p><strong>Xiaopeng Guo</strong><br>Email: <a href="mailto:xiaopeng.guo@stu.pku.edu.cn">xiaopeng.guo@stu.pku.edu.cn</a></p>
+<p><strong>Maojing Shu</strong><br>Email: <a href="mailto:shumaojing@pku.edu.cn">shumaojing@pku.edu.cn</a></p>
+<p><strong>Hui Zhao</strong><br>Email: <a href="mailto:hui.zhao@stu.pku.edu.cn">hui.zhao@stu.pku.edu.cn</a></p>
+<p><strong>Runkai Chen</strong><br>Email: <a href="mailto:chenrunkai@pku.edu.cn">chenrunkai@pku.edu.cn</a></p>
+<p><strong>Zeyan Wang</strong><br>Email: <a href="mailto:king.donmn@gmail.com">king.donmn@gmail.com</a></p>
 <h2 id="Master"><a href="#Master" class="headerlink" title="Master"></a>Master</h2><p><strong>Yunchang Li</strong><br>Email: <a href="mailto:liyunchang@pku.edu.cn">liyunchang@pku.edu.cn</a></p>
 <p><strong>Jie Gao</strong><br>Email: <a href="mailto:gaojie2018@pku.edu.cn">gaojie2018@pku.edu.cn</a></p>
 <h2 id="Graduated"><a href="#Graduated" class="headerlink" title="Graduated"></a>Graduated</h2><h3 id="Graduated-Master"><a href="#Graduated-Master" class="headerlink" title="Graduated Master"></a>Graduated Master</h3><p><strong>Grade 2016</strong><br>Yingfan Zhang, Yushan Zheng</p>
@@ -37,17 +42,17 @@
     <title>Download the Lentoid encoders and decoders</title>
     <url>/en/download/index.html</url>
     <content><![CDATA[<hr>
-<h3 id="Lentoid-H-265-HEVC-Decoder-for-Windows"><a href="#Lentoid-H-265-HEVC-Decoder-for-Windows" class="headerlink" title="Lentoid H.265/HEVC Decoder for Windows"></a>Lentoid H.265/HEVC Decoder for Windows</h3><p>Version: r6555     Release: 2018/09/05     Size: 2.73 MB<br>Release Notes: 1. This version is only for the individual test of HEVC decoding speed; 2. Compatible with the reference software HM12.0; 3. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams; 4.The 10-bit encoded HEVC videos can be correctly decoded (but still rendered in 8-bit for output); 5. Include plugin for media player<br>Configuration: Supporting system of WinServer 2003/2008, Win XP/Vista and Win7/Win8.<br><span style="float:right"><a href="windows.tar">Download  ⬇</a></span><br></p>
+<h3 id="Lentoid-H-265-HEVC-Decoder-for-Windows"><a href="#Lentoid-H-265-HEVC-Decoder-for-Windows" class="headerlink" title="Lentoid H.265/HEVC Decoder for Windows"></a>Lentoid H.265/HEVC Decoder for Windows</h3><p>Version: r6555     Release: 2021/09/05     Size: 2.73 MB<br>Release Notes: 1. This version is only for the individual test of HEVC decoding speed; 2. Compatible with the reference software HM12.0; 3. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams; 4.The 10-bit encoded HEVC videos can be correctly decoded (but still rendered in 8-bit for output); 5. Include plugin for media player<br>Configuration: Supporting system of WinServer 2003/2008, Win XP/Vista and Win7/Win8.<br><span style="float:right"><a href="windows.tar">Download  ⬇</a></span><br></p>
 <hr>
-<h3 id="Lentoid-H-265-HEVC-Decoder-for-Linux"><a href="#Lentoid-H-265-HEVC-Decoder-for-Linux" class="headerlink" title="Lentoid H.265/HEVC Decoder for Linux"></a>Lentoid H.265/HEVC Decoder for Linux</h3><p>Version: r6555     Release: 2018/09/03     Size: 580 KB<br>Release Notes: 1. This version is only for the individual test of HEVC decoding speed; 2. Compatible with the reference software HM12.0; 3. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams; 4.The 10-bit encoded HEVC videos can be correctly decoded (but still rendered in 8-bit for output).<br>Configuration: Supporting system of Centos, Ubuntu, etc.<br><span style="float:right"><a href="linux.tar">Download  ⬇</a></span><br></p>
+<h3 id="Lentoid-H-265-HEVC-Decoder-for-Linux"><a href="#Lentoid-H-265-HEVC-Decoder-for-Linux" class="headerlink" title="Lentoid H.265/HEVC Decoder for Linux"></a>Lentoid H.265/HEVC Decoder for Linux</h3><p>Version: r6555     Release: 2021/09/03     Size: 580 KB<br>Release Notes: 1. This version is only for the individual test of HEVC decoding speed; 2. Compatible with the reference software HM12.0; 3. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams; 4.The 10-bit encoded HEVC videos can be correctly decoded (but still rendered in 8-bit for output).<br>Configuration: Supporting system of Centos, Ubuntu, etc.<br><span style="float:right"><a href="linux.tar">Download  ⬇</a></span><br></p>
 <hr>
-<h3 id="Lentoid-H-265-HEVC-Decoder-for-Android"><a href="#Lentoid-H-265-HEVC-Decoder-for-Android" class="headerlink" title="Lentoid H.265/HEVC Decoder for Android"></a>Lentoid H.265/HEVC Decoder for Android</h3><p>Version: r6555     Release: 2018/09/03     Size: 1.34 MB<br>Release Notes: 1. A demo version; 2. Supporting .hevc/.hm10/.hm91/.bin/.bit format H.265/HEVC streams; 3. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams; 4. The default thread setting is 1 and can be changed via application menu.<br>Configuration: Resolution: 480x320 pixels or above; Supporting ARMv7 CPU architecture and NEON Multimedia Instruction Set; Supporting x86 CPU architecture and SSEx Multimedia Instruction Set; Android 2.3 or higher.<br><span style="float:right"><a href="android.tar">Download  ⬇</a></span> <span style="float:right">&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="float:right"><a href="android_apk.tar">Download apk ⬇</a></span><br></p>
+<h3 id="Lentoid-H-265-HEVC-Decoder-for-Android"><a href="#Lentoid-H-265-HEVC-Decoder-for-Android" class="headerlink" title="Lentoid H.265/HEVC Decoder for Android"></a>Lentoid H.265/HEVC Decoder for Android</h3><p>Version: r6555     Release: 2021/09/03     Size: 1.34 MB<br>Release Notes: 1. A demo version; 2. Supporting .hevc/.hm10/.hm91/.bin/.bit format H.265/HEVC streams; 3. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams; 4. The default thread setting is 1 and can be changed via application menu.<br>Configuration: Resolution: 480x320 pixels or above; Supporting ARMv7 CPU architecture and NEON Multimedia Instruction Set; Supporting x86 CPU architecture and SSEx Multimedia Instruction Set; Android 2.3 or higher.<br><span style="float:right"><a href="android.tar">Download  ⬇</a></span> <span style="float:right">&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="float:right"><a href="android_apk.tar">Download apk ⬇</a></span><br></p>
 <hr>
-<h3 id="Lentoid-H-265-HEVC-Decoder-for-iOS"><a href="#Lentoid-H-265-HEVC-Decoder-for-iOS" class="headerlink" title="Lentoid H.265/HEVC Decoder for iOS"></a>Lentoid H.265/HEVC Decoder for iOS</h3><p>Version: r6555     Release: 2018/09/03     Size: 3.29 MB<br>Release Notes: 1. A demo version; 2. Supporting .hevc/.hm10/.hm91/.bin/.bit format H.265/HEVC streams; 3. ARMv7 architecture now is supported; 4. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams.<br>Configuration: Compatible with iphone and ipad; Supporting iOS 6.0 or higher.<br><span style="float:right"><a href="ios.tar">Download  ⬇</a></span><br></p>
+<h3 id="Lentoid-H-265-HEVC-Decoder-for-iOS"><a href="#Lentoid-H-265-HEVC-Decoder-for-iOS" class="headerlink" title="Lentoid H.265/HEVC Decoder for iOS"></a>Lentoid H.265/HEVC Decoder for iOS</h3><p>Version: r6555     Release: 2021/09/03     Size: 3.29 MB<br>Release Notes: 1. A demo version; 2. Supporting .hevc/.hm10/.hm91/.bin/.bit format H.265/HEVC streams; 3. ARMv7 architecture now is supported; 4. The error resilience feature is supported to tolerate the possible errors in HEVC bitstreams.<br>Configuration: Compatible with iphone and ipad; Supporting iOS 6.0 or higher.<br><span style="float:right"><a href="ios.tar">Download  ⬇</a></span><br></p>
 <hr>
-<h3 id="Lentoid-H-265-HEVC-Encoder-for-Windows"><a href="#Lentoid-H-265-HEVC-Encoder-for-Windows" class="headerlink" title="Lentoid H.265/HEVC Encoder for Windows"></a>Lentoid H.265/HEVC Encoder for Windows</h3><p>Version: 2.8 r6740     Release: 2019/02/26     Size: 1.30 MB<br>Release Notes: 1. This version is only for testing, the number of frames to be encoded is limited; 2. Supports many rate-control algorithms and 4Kx2K video encoding.<br>Configuration: Memory: 2GB or more; Media instruction sets: need AVX2 instruction set; Operating systems: WinServer 2003/2008, Win XP/Vista and Win7/ Win8/ Win10.<br><span style="float:right"><a href="lentenc_windows.rar">Download  ⬇</a></span><br></p>
+<h3 id="Lentoid-H-265-HEVC-Encoder-for-Windows"><a href="#Lentoid-H-265-HEVC-Encoder-for-Windows" class="headerlink" title="Lentoid H.265/HEVC Encoder for Windows"></a>Lentoid H.265/HEVC Encoder for Windows</h3><p>Version: 2.8 r6740     Release: 2021/02/26     Size: 1.30 MB<br>Release Notes: 1. This version is only for testing, the number of frames to be encoded is limited; 2. Supports many rate-control algorithms and 4Kx2K video encoding.<br>Configuration: Memory: 2GB or more; Media instruction sets: need AVX2 instruction set; Operating systems: WinServer 2003/2008, Win XP/Vista and Win7/ Win8/ Win10.<br><span style="float:right"><a href="lentenc_windows.rar">Download  ⬇</a></span><br></p>
 <hr>
-<h3 id="Lentoid-H-265-HEVC-Encoder-for-Linux"><a href="#Lentoid-H-265-HEVC-Encoder-for-Linux" class="headerlink" title="Lentoid H.265/HEVC Encoder for Linux"></a>Lentoid H.265/HEVC Encoder for Linux</h3><p>Version: 2.8 r6740     Release: 2019/02/26     Size: 1.45 MB<br>Release Notes: 1. This version is only for testing, the number of frames to be encoded is limited; 2. Supports many rate-control algorithms and 4Kx2K video encoding.<br>Configuration: Memory: 2GB or more; Media instruction sets: need AVX2 instruction set; Operating systems: Centos, Ubuntu, etc.<br><span style="float:right"><a href="lentenc_linux.rar">Download  ⬇</a></span><br></p>
+<h3 id="Lentoid-H-265-HEVC-Encoder-for-Linux"><a href="#Lentoid-H-265-HEVC-Encoder-for-Linux" class="headerlink" title="Lentoid H.265/HEVC Encoder for Linux"></a>Lentoid H.265/HEVC Encoder for Linux</h3><p>Version: 2.8 r6740     Release: 2021/02/26     Size: 1.45 MB<br>Release Notes: 1. This version is only for testing, the number of frames to be encoded is limited; 2. Supports many rate-control algorithms and 4Kx2K video encoding.<br>Configuration: Memory: 2GB or more; Media instruction sets: need AVX2 instruction set; Operating systems: Centos, Ubuntu, etc.<br><span style="float:right"><a href="lentenc_linux.rar">Download  ⬇</a></span><br></p>
 <hr>
 ]]></content>
   </entry>
@@ -60,19 +65,19 @@
   <tr>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/en/activities/index/xiaopeng_mm1.png" style="width: 270px;height: 150px">
-    <a href="xiaopeng_mm.html"><strong>2021-07-03 [MM] Xiaopeng Guo</strong></a>
+    <a href="xiaopeng_mm1.html"><strong>2021-07-03 [MM] Xiaopeng Guo</strong></a>
     </td>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <img src="/en/activities/index/zhijie_tcsvt1.png" style="width: 270px;height: 150px">
-    <a href="zhijie_tcsvt.html"><strong>2021-06-15 [TCSVT] Zhijie huang</strong></a>
+    <a href="zhijie_tcsvt1.html"><strong>2021-06-15 [TCSVT] Zhijie huang</strong></a>
     </td>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
     <a href="index/jucan20210613.jpg"><img src="/en/activities/index/jucan20210613.jpg" style="width: 270px;height: 150px"></a>
     <a href="2021-06-13.html"><strong>2021-06-13 dine together</strong></a>
     </td>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
-    <img src="/en/activities/index/zhijie_tip.png" style="width: 270px;height: 150px">
-    <a href="zhijie_tip.html"><strong>2021-06-03 [TIP] Zhijie huang</strong></a>
+    <img src="/en/activities/index/zhijie_tip1.png" style="width: 270px;height: 150px">
+    <a href="zhijie_tip1.html"><strong>2021-06-03 [TIP] Zhijie huang</strong></a>
     </td>
   </tr>
 </tbody>
@@ -191,7 +196,7 @@ Congratulations to graduate student Gao Jie and undergraduate intern Zhao Dong f
   </entry>
   <entry>
     <title></title>
-    <url>/en/activities/xiaopeng_mm.html</url>
+    <url>/en/activities/xiaopeng_mm1.html</url>
     <content><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -201,7 +206,7 @@ Congratulations to graduate student Gao Jie and undergraduate intern Zhao Dong f
 <body>
 <h3 style="text-align:center">Enhancing knowledge tracing via adversarial training</h3>
 <h4 style="text-align:center">Xiaopeng Guo</h4>
-<img src="/en/activities/xiaopeng_mm.htm/xiaopeng_mm.png" style="width: 800px;">
+<img src="/en/activities/xiaopeng_mm1.htm/xiaopeng_mm.png" style="width: 800px;">
 <h4>Abstract：</h4>Waiting for updating..
 <br>
 Further information will be updated as the paper published.
@@ -211,7 +216,7 @@ Further information will be updated as the paper published.
   </entry>
   <entry>
     <title></title>
-    <url>/en/activities/zhijie_tcsvt.html</url>
+    <url>/en/activities/zhijie_tcsvt1.html</url>
     <content><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -222,7 +227,7 @@ Further information will be updated as the paper published.
 <h3 style="text-align:center">One-for-all: An Efficient Variable Convolution
     Neural Network for In-loop Filter of VVC</h3>
 <h4 style="text-align:center">Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang</h4>
-<img src="/en/activities/zhijie_tcsvt.htm/zhijie_tcsvt.png" style="width: 800px;">
+<img src="/en/activities/zhijie_tcsvt1.htm/zhijie_tcsvt.png" style="width: 800px;">
 <h4>Abstract：</h4>Recently, many researches on convolution neural
 network (CNN) based in-loop filters have been proposed to
 improve coding efficiency. However, most existing CNN based
@@ -259,7 +264,7 @@ than QP-Separate models.
   </entry>
   <entry>
     <title></title>
-    <url>/en/activities/zhijie_tip.html</url>
+    <url>/en/activities/zhijie_tip1.html</url>
     <content><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -269,7 +274,7 @@ than QP-Separate models.
 <body>
 <h3 style="text-align:center">Adaptive Deep Reinforcement Learning-Based In-Loop Filter for VVC</h3>
 <h4 style="text-align:center">Zhijie Huang, Jun Sun, Xiaopeng Guo and Mingyu Shang</h4>
-<img src="/en/activities/zhijie_tip.htm/zhijie_tip.png" style="width: 800px;">
+<img src="/en/activities/zhijie_tip1.htm/zhijie_tip.png" style="width: 800px;">
 <h4>Abstract：</h4>Deep learning-based in-loop filters have recently
 demonstrated great improvement for both coding efficiency and
 subjective quality in video coding. However, most existing deep
