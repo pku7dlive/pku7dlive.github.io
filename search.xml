@@ -108,7 +108,7 @@
     <title>编解码器下载</title>
     <url>/download/index.html</url>
     <content><![CDATA[<hr>
-<h3 id="Lentoid-Windows版H-265-HEVC解码器"><a href="#Lentoid-Windows版H-265-HEVC解码器" class="headerlink" title="Lentoid Windows版H.265/HEVC解码器"></a>Lentoid Windows版H.265/HEVC解码器</h3><p><strong>最新版本：</strong>r6555 &emsp; <strong>发布日期：</strong>2021/09/05 &emsp; <strong>软件大小：</strong>2.73 MB<br><strong>版本说明：</strong>1、该版本仅供个人测试HEVC解码速度使用；2、全面兼容HM12.0；3、容错功能，对于HEVC码流错误能够进行最大化的友好处理；4.支持解码10-bit HEVC视频（但仍以8-bit渲染输出）；5.包含播放器插件<br><strong>配置要求：</strong>支持系统WinServer 2003/2008, Win XP/Vista, Win7/Win8 <span style="float:right"><a href="windows.tar">下载 ⬇</a></span></p>
+<h3 id="Lentoid-Windows版H-265-HEVC解码器"><a href="#Lentoid-Windows版H-265-HEVC解码器" class="headerlink" title="Lentoid Windows版H.265/HEVC解码器"></a>Lentoid Windows版H.265/HEVC解码器</h3><p><strong>最新版本：</strong>r6555 &emsp; <strong>发布日期：</strong>2021/09/05 &emsp; <strong>软件大小：</strong>2.73 MB<br><strong>版本说明：</strong>1、该版本仅供个人测试HEVC解码速度使用；2、全面兼容HM12.0；3、容错功能，对于HEVC码流错误能够进行最大化的友好处理；4.支持解码10-bit HEVC视频（但仍以8-bit渲染输出）；5.包含播放器插件<br><strong>配置要求：</strong>支持系统WinServer 2003/2008, Win XP/Vista, Win7/Win8 <span style="float:right"><a href="windows.zip">下载 ⬇</a></span></p>
 <hr>
 <h3 id="Lentoid-Linux版H-265-HEVC解码器"><a href="#Lentoid-Linux版H-265-HEVC解码器" class="headerlink" title="Lentoid Linux版H.265/HEVC解码器"></a>Lentoid Linux版H.265/HEVC解码器</h3><p>最新版本：r6555 &emsp; 发布日期：2021/09/03 &emsp; 软件大小：580 KB<br>版本说明：1、该版本仅供个人测试HEVC解码速度使用；2、全面兼容HM12.0；3、容错功能，对于HEVC码流错误能够进行最大化的友好处理；4.支持解码10-bit          HEVC视频（但仍以8-bit渲染输出）<br>配置要求：支持系统Centos, Ubuntu等 <span style="float:right"><a href="linux.tar">下载 ⬇</a></span></p>
 <hr>
