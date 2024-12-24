@@ -31,6 +31,28 @@
 <tbody>
   <tr>
     <td style="text-align: center; vertical-align: middle !important; height: 150px">
+        <img src="/activities/index/2024-12-24-1.png" style="width: 270px;height: 150px">
+        <a href="2024-12-24-1.html"><strong>2024-12-24 [TCSVT]孙天翊</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
+        <img src="/activities/index/2024-12-24-2.png" style="width: 270px;height: 150px">
+        <a href="2024-12-24-2.html"><strong>2024-12-24 [ICASSP]陈润恺</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
+        <img src="/activities/index/2024-12-24-3.png" style="width: 270px;height: 150px">
+        <a href="2024-12-24-3.html"><strong>2024-12-24 [ICASSP]王延泽</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
+        <img src="/activities/index/2024-12-24-4.png" style="width: 270px;height: 150px">
+        <a href="2024-12-24-4.html"><strong>2024-12-24 [ICASSP]赵辉</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
+        <img src="/activities/index/tuanjian_20241215.jpg" style="width: 270px;height: 150px">
+        <a href="2024-12-15.html"><strong>2024-12-15 团建</strong></a>
+    </td>
+    <td style="text-align: center; vertical-align: middle !important; height: 150px">
         <img src="/activities/index/zhijie_icme1.png" style="width: 270px;height: 150px">
         <a href="zhijie_icme1.html"><strong>2023-09-25 [ICME]黄志杰</strong></a>
     </td>
@@ -42,12 +64,12 @@
         <img src="/activities/index/zhijie_tomm1.png" style="width: 270px;height: 150px">
         <a href="zhijie_tomm1.html"><strong>2022-10-27 [TOMM]黄志杰</strong></a>
     </td>
-    <td style="text-align: center; vertical-align: middle !important; height: 150px">
+  </tr>
+  <tr>
+   <td style="text-align: center; vertical-align: middle !important; height: 150px">
         <img src="/activities/index/jucan20220925.jpg" style="width: 270px;height: 150px">
         <a href="2022-09-25.html"><strong>2022-09-25 聚餐</strong></a>
     </td>
-  </tr>
-  <tr>
       <td style="text-align: center; vertical-align: middle !important; height: 150px">
         <img src="/activities/index/jucan20220306.jpg" style="width: 270px;height: 150px">
         <a href="2022-03-06.html"><strong>2022-03-06 聚餐</strong></a>
@@ -60,12 +82,12 @@
           <img src="/activities/index/zhaohui_2022_01_05.jpg" style="width: 270px;height: 150px">
           <a href="2022-01-05-2.html"><strong>2022-01-05 授奖 赵辉</strong></a>
       </td>
+  </tr>
+  <tr>
       <td style="text-align: center; vertical-align: middle !important; height: 150px">
           <img src="/activities/index/jucan20210926.jpg" style="width: 270px;height: 150px">
           <a href="2021-09-26.html"><strong>2021-09-26 聚餐</strong></a>
       </td>
-  </tr>
-  <tr>
       <td style="text-align: center; vertical-align: middle !important; height: 150px">
           <img src="/activities/index/xiaopeng_mm1.png" style="width: 270px;height: 150px">
           <a href="xiaopeng_mm1.html"><strong>2021-07-03 [MM]郭晓鹏</strong></a>
@@ -78,6 +100,8 @@
           <img src="/activities/index/jucan20210613.jpg" style="width: 270px;height: 150px">
           <a href="2021-06-13.html"><strong>2021-06-13 聚餐</strong></a>
       </td>
+    </tr>
+    <tr>
       <td style="text-align: center; vertical-align: middle !important; height: 150px">
           <img src="/activities/index/zhijie_tip1.png" style="width: 270px;height: 150px">
           <a href="zhijie_tip1.html"><strong>2021-06-03 [TIP]黄志杰</strong></a>
@@ -569,6 +593,83 @@ Deep neural networks have achieved remarkable success in HEVC compressed video q
 文章已被ICME收录，<a href="https://ieeexplore.ieee.org/abstract/document/10219831" target="_blank" rel="noopener"><strong>了解更多</strong></a>。
 </body>
 
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2024-12-24-2.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3 style="text-align:center">STR-Saliency: Decomposition-based Perturbations to Generate Saliency Maps for Temporal Black-box Model Interpretation</h3>
+<img src="/activities/2024-12-24-2.htm/2024-12-24-2.png" style="width: 800px;">
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2024-12-24-1.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3 style="text-align:center">STRANet: Soft-Target and Restriction-Aware Neural Network for Efficient VVC Intra Coding</h3>
+<h4 style="text-align:center">Tianyi Sun, Yanze Wang, Zhijie Huang, Jun Sun*</h4>
+<img src="/activities/2024-12-24-1.htm/2024-12-24-1.png" style="width: 800px;">
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2024-12-24-3.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3 style="text-align:center">Efficient Modeling and Low Complexity Implementation of Rate Estimation in Versatile Video Coding</h3>
+<img src="/activities/2024-12-24-3.htm/2024-12-24-3.png" style="width: 800px;">
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2024-12-24-4.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3 style="text-align:center">Incorporate Global Information from Entire Datasets for Knowledge Tracing via Mini-Batch Input</h3>
+<img src="/activities/2024-12-24-4.htm/2024-12-24-4.png" style="width: 800px;">
+</body>
+</html>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/activities/2024-12-15.html</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<meta name="generator" content="Hexo 4.2.1"></head>
+<body>
+<h3>实验室团建</h3>
+<br><br>
+<img src="/activities/2024-12-15.htm/tuanjian_20241215.jpg" style="width: 500px;">
+</body>
 </html>]]></content>
   </entry>
 </search>
