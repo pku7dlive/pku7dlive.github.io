@@ -1,0 +1,11 @@
+_posts:首页
+about:成员
+activities:动态
+AI-finance:AI财经
+download:下载
+dpedu:首页-深度学习与智慧教育
+hevc:首页-视频编解码
+patent:专利
+project:没找着对应的
+publication:论文
+stu:没找着对应的

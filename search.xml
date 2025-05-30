@@ -17,10 +17,10 @@
   </tr>
 </table>
 
-<h2 id="博士"><a href="#博士" class="headerlink" title="博士"></a>博士</h2><p>尚明宇 <a href="mailto:mingyu.shang@pku.edu.cn">mingyu.shang@pku.edu.cn</a><br>黄志杰 <a href="mailto:zhijiehuang@pku.edu.cn">zhijiehuang@pku.edu.cn</a><br>郭晓鹏 <a href="mailto:xiaopeng.guo@stu.pku.edu.cn">xiaopeng.guo@stu.pku.edu.cn</a><br>树茂菁 <a href="mailto:shumaojing@pku.edu.cn">shumaojing@pku.edu.cn</a><br>赵辉 <a href="mailto:hui.zhao@stu.pku.edu.cn">hui.zhao@stu.pku.edu.cn</a><br>陈润恺 <a href="mailto:chenrunkai@pku.edu.cn">chenrunkai@pku.edu.cn</a><br>王延泽 <a href="mailto:king.donmn@gmail.com">king.donmn@gmail.com</a></p>
-<h2 id="硕士"><a href="#硕士" class="headerlink" title="硕士"></a>硕士</h2><p>李云畅 <a href="mailto:liyunchang@pku.edu.cn">liyunchang@pku.edu.cn</a><br>高洁 <a href="mailto:gaojie2018@pku.edu.cn">gaojie2018@pku.edu.cn</a></p>
-<h2 id="毕业生"><a href="#毕业生" class="headerlink" title="毕业生"></a>毕业生</h2><h3 id="硕士-1"><a href="#硕士-1" class="headerlink" title="硕士"></a>硕士</h3><p>2016级 张樱凡 郑羽珊<br>2015级 冯伟伦 靖奇 徐鹏 雷文雨<br>2014级 王杰西 林镇安 钟鸣<br>2013级 范英明 张奇<br>2012级 周燕萍<br>2011级 刘森<br>2010级 颜乐驹</p>
-<h3 id="博士-1"><a href="#博士-1" class="headerlink" title="博士"></a>博士</h3><p>2014级 陈科吉<br>2012级 段一舟<br>2011级 孟胜彬</p>
+<h2 id="博士"><a href="#博士" class="headerlink" title="博士"></a>博士</h2><p>树茂菁 <a href="mailto:shumaojing@pku.edu.cn">shumaojing@pku.edu.cn</a><br>赵辉 <a href="mailto:hui.zhao@stu.pku.edu.cn">hui.zhao@stu.pku.edu.cn</a><br>陈润恺 <a href="mailto:chenrunkai@pku.edu.cn">chenrunkai@pku.edu.cn</a><br>王延泽 <a href="mailto:king.donmn@gmail.com">king.donmn@gmail.com</a><br>孙天翊 <a href="mailto:sty@pku.edu.cn">sty@pku.edu.cn</a><br>陈悦迪 <a href="mailto:chenyd0819@pku.edu.cn">chenyd0819@pku.edu.cn</a><br>崔欢 <a href="mailto:cui_huan@pku.edu.cn">cui_huan@pku.edu.cn</a></p>
+<h2 id="硕士"><a href="#硕士" class="headerlink" title="硕士"></a>硕士</h2><p>李振宇 <a href="mailto:2401213377@stu.pku.edu.cn">2401213377@stu.pku.edu.cn</a></p>
+<h2 id="毕业生"><a href="#毕业生" class="headerlink" title="毕业生"></a>毕业生</h2><h3 id="硕士-1"><a href="#硕士-1" class="headerlink" title="硕士"></a>硕士</h3><p>2018级 高洁 尚明宇<br>2017级 李云畅<br>2016级 张樱凡 郑羽珊<br>2015级 冯伟伦 靖奇 徐鹏 雷文雨<br>2014级 王杰西 林镇安 钟鸣<br>2013级 范英明 张奇<br>2012级 周燕萍<br>2011级 刘森<br>2010级 颜乐驹</p>
+<h3 id="博士-1"><a href="#博士-1" class="headerlink" title="博士"></a>博士</h3><p>2020级 郭晓鹏<br>2019级 黄志杰<br>2014级 陈科吉<br>2012级 段一舟<br>2011级 孟胜彬</p>
 ]]></content>
   </entry>
   <entry>
@@ -671,5 +671,13 @@ Deep neural networks have achieved remarkable success in HEVC compressed video q
 <img src="/activities/2024-12-15.htm/tuanjian_20241215.jpg" style="width: 500px;">
 </body>
 </html>]]></content>
+  </entry>
+  <entry>
+    <title>Lentoid AI财经</title>
+    <url>/AI-finance/index.html</url>
+    <content><![CDATA[<p>2024年起，深度视频研究室开始研发Lentoid深度量化产品。到目前为止，实验室在开源的时序研究平台的基础上，搭建了私有的Lentoid通用时序研究平台。在此基础上提出了Lentoid深度量化框架，构建了一个包含较多数据集的可扩充的统一数据集，并在数据集上进行了预训练，得到了Lentoid时序预测大模型。该模型的效果已经大大超过传统模型的效果。</p>
+<h3 id="Lentoid深度量化服务简介"><a href="#Lentoid深度量化服务简介" class="headerlink" title="Lentoid深度量化服务简介"></a>Lentoid深度量化服务简介</h3><p><span style="float:right"><a href="Lentoid深度量化服务简介v3.6.pptx">下载 ⬇</a></span></p>
+<h3 id="Lentoid时间序列大模型数据服务汇总"><a href="#Lentoid时间序列大模型数据服务汇总" class="headerlink" title="Lentoid时间序列大模型数据服务汇总"></a>Lentoid时间序列大模型数据服务汇总</h3><p><span style="float:right"><a href="Lentoid时间序列大模型数据服务汇总（北大王选所）20241225v5.xlsx">下载 ⬇</a></span></p>
+]]></content>
   </entry>
 </search>
