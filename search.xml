@@ -676,8 +676,8 @@ Deep neural networks have achieved remarkable success in HEVC compressed video q
     <title>Lentoid AI财经</title>
     <url>/AI-finance/index.html</url>
     <content><![CDATA[<p>2024年起，深度视频研究室开始研发Lentoid深度量化产品。到目前为止，实验室在开源的时序研究平台的基础上，搭建了私有的Lentoid通用时序研究平台。在此基础上提出了Lentoid深度量化框架，构建了一个包含较多数据集的可扩充的统一数据集，并在数据集上进行了预训练，得到了Lentoid时序预测大模型。该模型已经在业内著名基金实盘2000万元和个人资金600万，平均年超额达到28% 。多数据、多模型、多风格控制，收益、风控根据客户要求灵活可调。互联网大模型与股票结合的方案，夏普比例超过4.5。</p>
-<p><img src="/AI-finance/index/index/model1.png%22" alt="model1"></p>
-<p><img src="/AI-finance/index/index/model2.png%22" alt="model2"></p>
-]]></content>
+<img align="middle" src="/AI-finance/index/model1.png" alt="model1" width="800" height="600">
+
+<img align="middle" src="/AI-finance/index/model2.png" alt="model2" width="800" height="600">]]></content>
   </entry>
 </search>
